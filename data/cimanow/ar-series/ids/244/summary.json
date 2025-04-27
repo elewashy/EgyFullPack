@@ -1,0 +1,9 @@
+{
+  "title": "[EgyFilm] drba m3lm S01",
+  "qualities": {
+    "deva": {
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}

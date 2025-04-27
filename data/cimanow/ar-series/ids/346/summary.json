@@ -1,0 +1,9 @@
+{
+  "title": "[EgyFilm] wra kl bab S02",
+  "qualities": {
+    "deva": {
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}
