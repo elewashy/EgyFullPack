@@ -2,7 +2,6 @@
   "title": "[EgyFilm] al3rbgy S01",
   "qualities": {
     "deva": {
-      "1080p": "deva_1080p.json",
       "360p": "deva_360p.json",
       "480p": "deva_480p.json",
       "720p": "deva_720p.json"

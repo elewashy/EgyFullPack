@@ -2,9 +2,19 @@
   "title": "[EgyFilm] wt2abl 7byb S01",
   "episodes": [
     {
+      "name": "Episode 01",
+      "url": "https://vk.com/s/v1/doc/RO7OFDIewCVazGiFRvPg30OEhrrgy9-nJcoXsm3so2ZYBj0Y8tQ",
+      "size": "1,022.06 ميجا"
+    },
+    {
       "name": "Episode 02",
       "url": "https://vk.com/s/v1/doc/exRvDxrudAYA64leMYqISJRZ6iARF0tpG-3k03pS70Wd4PbjIRE",
       "size": "663.48 ميجا"
+    },
+    {
+      "name": "Episode 03",
+      "url": "https://vk.com/s/v1/doc/v7_BGLCvyR3mxQKNWkFA5PIHGR4MtFqYHidIntnykY2Wvin7zss",
+      "size": "729.86 ميجا"
     },
     {
       "name": "Episode 04",
@@ -25,6 +35,16 @@
       "name": "Episode 07",
       "url": "https://vk.com/s/v1/doc/taune3B9NPZOlC4U4KJq5uAu5WZCdLmLpAUtnvL2IJggOHwL4vI",
       "size": "640.79 ميجا"
+    },
+    {
+      "name": "Episode 08",
+      "url": "https://vk.com/s/v1/doc/pxxTrceNd2lO0t6j8cI-yN1EKAjTwpKryPs1bAhljP936yCEjHU",
+      "size": "685.05 ميجا"
+    },
+    {
+      "name": "Episode 09",
+      "url": "https://vk.com/s/v1/doc/EjheK67gRbpSp-cWw4AraT-1d5UIdy654uZ9dReszI3f2vAF7Os",
+      "size": "673.43 ميجا"
     },
     {
       "name": "Episode 10",
@@ -82,6 +102,31 @@
       "size": "664.02 ميجا"
     },
     {
+      "name": "Episode 21",
+      "url": "https://vk.com/s/v1/doc/9kiPMwwG6aPPpt5kEHhLOgfM-nfrD1wfgzy6gC77ecSSA54LGuA",
+      "size": "540.48 ميجا"
+    },
+    {
+      "name": "Episode 22",
+      "url": "https://vk.com/s/v1/doc/cM26TvFz28QV3AyH5FuiSrO9tC9EwO7u_gztq7LeO_r5feNTiDo",
+      "size": "587.09 ميجا"
+    },
+    {
+      "name": "Episode 23",
+      "url": "https://vk.com/s/v1/doc/9SFaWoAAdh1rRGvzIIA8yEh-boIaK0ONphvOuRCEZNnHNU_Ob6Y",
+      "size": "591.88 ميجا"
+    },
+    {
+      "name": "Episode 24",
+      "url": "https://vk.com/s/v1/doc/fhA4kqlH-Qs5D-KYy6heDqJwa_jOxjt1fSJNNRwN1OqceYGkh0Y",
+      "size": "590.79 ميجا"
+    },
+    {
+      "name": "Episode 25",
+      "url": "https://vk.com/s/v1/doc/0NMGLnclXRY4rVjZVWdhdZPhgJn6AdrlPhAbui_Nmzeg3DagDCI",
+      "size": "635.98 ميجا"
+    },
+    {
       "name": "Episode 26",
       "url": "https://vk.com/s/v1/doc/NaNvxpXOTSwmnlB9T8dHAlT-GOuhODnJRZdELxHU4g2rIGXFY6g",
       "size": "602.47 ميجا"
@@ -100,11 +145,6 @@
       "name": "Episode 29",
       "url": "https://vk.com/s/v1/doc/eRb0EB00al1UKBf8rsUrIUC1Mk61gpm0vqQB0FdzcP6damLQ48E",
       "size": "784.69 ميجا"
-    },
-    {
-      "name": "Episode 30",
-      "url": "https://vk.com/s/v1/doc/nb1hLBN-cDNeomTImgtLyUjPkQfA7i8bcxZ1lo14JJ4jBROh3IE",
-      "size": "1.37 جيجا"
     }
   ]
 }

@@ -1,4 +1,10 @@
 {
   "title": "[EgyFilm] kan khald S01",
-  "qualities": {}
+  "qualities": {
+    "deva": {
+      "360p": "deva_360p.json",
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
 }

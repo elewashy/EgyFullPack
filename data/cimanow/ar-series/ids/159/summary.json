@@ -1,4 +1,9 @@
 {
   "title": "[EgyFilm] 2wt al2lwb S01",
-  "qualities": {}
+  "qualities": {
+    "deva": {
+      "360p": "deva_360p.json",
+      "720p": "deva_720p.json"
+    }
+  }
 }

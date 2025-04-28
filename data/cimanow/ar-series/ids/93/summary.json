@@ -1,4 +1,8 @@
 {
   "title": "[EgyFilm] 7kayty S01",
-  "qualities": {}
+  "qualities": {
+    "deva": {
+      "720p": "deva_720p.json"
+    }
+  }
 }

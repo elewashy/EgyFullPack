@@ -164,38 +164,44 @@ async def process_series(session, series, script_dir, progress_data):
         progress_data['failed_episodes'][str(series_id)] = []
     
     # Process episodes concurrently in batches
-    batch_size = 5  # Process 5 episodes at a time
+    batch_size = 20  # Process 20 episodes at a time for higher speed
+    max_retries = 3
+
     for i in range(0, len(episodes), batch_size):
         batch = episodes[i:i + batch_size]
         tasks = []
+        batch_ep_nums = []
         for ep_num, ep_url in batch:
             # Skip if episode already completed
             if ep_num in progress_data['completed_episodes'][str(series_id)]:
                 print(f"Skipping completed episode {ep_num} of {series['name']}")
                 continue
-                
-            task = process_episode(session, series, ep_num, ep_url, series_dir)
-            tasks.append(task)
-        
-        if tasks:
-            try:
-                await asyncio.gather(*tasks)
-                # Mark episodes as completed
-                for ep_num, _ in batch:
+
+            batch_ep_nums.append(ep_num)
+            tasks.append((ep_num, ep_url))
+
+        # Retry logic for each episode in the batch
+        for ep_num, ep_url in tasks:
+            success = False
+            for attempt in range(max_retries):
+                try:
+                    await process_episode(session, series, ep_num, ep_url, series_dir)
                     if ep_num not in progress_data['completed_episodes'][str(series_id)]:
                         progress_data['completed_episodes'][str(series_id)].append(ep_num)
+                    save_progress(script_dir, progress_data)
+                    success = True
+                    break
+                except Exception as e:
+                    print(f"Error processing episode {ep_num} (attempt {attempt+1}): {str(e)}")
+                    await asyncio.sleep(0.5)
+            if not success:
+                if ep_num not in progress_data['failed_episodes'][str(series_id)]:
+                    progress_data['failed_episodes'][str(series_id)].append(ep_num)
                 save_progress(script_dir, progress_data)
-            except Exception as e:
-                print(f"Error processing batch: {str(e)}")
-                # Mark failed episodes
-                for ep_num, ep_url in batch:
-                    if ep_num not in progress_data['failed_episodes'][str(series_id)]:
-                        progress_data['failed_episodes'][str(series_id)].append(ep_num)
-                save_progress(script_dir, progress_data)
-        
+
         # Small delay between batches to be nice to server
         if i + batch_size < len(episodes):
-            await asyncio.sleep(1)
+            await asyncio.sleep(0.5)
     
     create_summary(series, series_dir)
     
@@ -204,6 +210,35 @@ async def process_series(session, series, script_dir, progress_data):
     progress_data['current_series'] = None
     save_progress(script_dir, progress_data)
     
+    # Check for missing episodes (progress.json)
+    all_ep_nums = set(ep_num for ep_num, _ in episodes)
+    completed_ep_nums = set(progress_data['completed_episodes'][str(series_id)])
+    missing_ep_nums = sorted(list(all_ep_nums - completed_ep_nums), key=lambda x: int(x))
+    if missing_ep_nums:
+        print(f'WARNING: Missing episodes for {series["name"]} (ID: {series_id}) in progress.json: {missing_ep_nums}')
+    else:
+        print(f'All episodes completed for {series["name"]} (ID: {series_id}) in progress.json')
+
+    # Check for missing episodes in JSON files
+    found_ep_nums = set()
+    for fname in os.listdir(series_dir):
+        if fname.endswith('.json') and fname not in ['summary.json']:
+            try:
+                with open(os.path.join(series_dir, fname), 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    for ep in data.get('episodes', []):
+                        ep_name = ep.get('name', '')
+                        if ep_name.startswith('Episode '):
+                            ep_num = ep_name.replace('Episode ', '').strip()
+                            found_ep_nums.add(ep_num)
+            except Exception as e:
+                print(f'Error reading {fname}: {e}')
+    missing_in_json = sorted(list(all_ep_nums - found_ep_nums), key=lambda x: int(x))
+    if missing_in_json:
+        print(f'WARNING: Missing episodes for {series["name"]} (ID: {series_id}) in JSON files: {missing_in_json}')
+    else:
+        print(f'All episodes present in JSON files for {series["name"]} (ID: {series_id})')
+
     print(f'Completed series {series["name"]} (ID: {series_id})')
 
 async def retry_failed_episodes(session, script_dir, progress_data, series_list):
@@ -247,14 +282,14 @@ async def main():
         series_list = json.load(f)
 
     # Process multiple series concurrently
-    connector = aiohttp.TCPConnector(limit=10)
+    connector = aiohttp.TCPConnector(limit=50)  # Increase concurrency for speed
     async with aiohttp.ClientSession(connector=connector) as session:
         tasks = []
         for series in series_list:
             task = process_series(session, series, script_dir, progress_data)
             tasks.append(task)
         await asyncio.gather(*tasks)
-        
+
         # Retry failed episodes
         await retry_failed_episodes(session, script_dir, progress_data, series_list)
 
