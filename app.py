@@ -51,12 +51,34 @@ def series():
     end = start + PAGE_SIZE
     series_page = series_data[start:end]
     pagination = []
-    for i in range(1, total_pages + 1):
+    def add_page(i):
         pagination.append({
             "number": i,
             "url": url_for("series", page=i),
             "active": (i == page)
         })
+    
+    def add_ellipsis():
+        pagination.append({
+            "number": "...",
+            "url": "#",
+            "active": False
+        })
+
+    # Always show first page
+    add_page(1)
+    
+    # Show pages around current page
+    for i in range(max(2, page - 2), min(total_pages, page + 3)):
+        if i == 2 and page > 4:
+            add_ellipsis()
+        add_page(i)
+            
+    # Show last page with ellipsis if needed
+    if page + 2 < total_pages - 1:
+        add_ellipsis()
+    if page + 2 < total_pages:
+        add_page(total_pages)
     return render_template("series.html", series=series_page, pagination=pagination, page=page, total_pages=total_pages)
 
 @app.route("/series/<series_id>/download")
