@@ -19,7 +19,7 @@
             <ul class="download-items">
               {% for link in series.download_links %}
               <li>
-                <a target="_NEW" rel="nofollow" href="{{ link.url }}" class="downloadsLink green">
+                <a target="_NEW" rel="nofollow" href="{{ link.url }}" class="downloadsLink {% if link.server == 'EgyFilm' %}green{% endif %}">
                   <i class="fas fa-download"></i>
                   <div class="text">
                     <span>{{ link.server }}</span>

@@ -4,14 +4,14 @@
     
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <title>مسلسلات عربي - إِيجي فيلم</title>
+    <title>{% if search_query %}نتائج البحث عن "{{ search_query }}" {% else %}المسلسلات العربية{% endif %} - إِيجي فيلم</title>
       <!-- header -->
     {% include 'header.html' %}
 
     <div class="SectionMaster">
       <div class="Content--Wrapper">
         <div class="TitleBox ArchiveFilter">
-          <h2>مسلسلات عربي</h2>
+          <h2>{% if search_query %}نتائج البحث عن "{{ search_query }}"{% else %}المسلسلات العربية{% endif %}</h2>
           <!-- <ul>
             <li>
               <a
@@ -30,7 +30,7 @@
           </ul> -->
         </div>
         <div class="filterPosts seriesFilter">
-          <span>اتفرج علي مزاجك</span>
+          <span>{% if search_query %}{{ series|length }} نتيجة{% else %}حمل علي مزاجك{% endif %}</span>
         </div>
         <ul class="Posts--List SixInRow">
           {% for series in series %}
