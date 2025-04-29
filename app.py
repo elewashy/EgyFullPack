@@ -11,13 +11,26 @@ def load_series_qualities(series_id):
     series_dir = os.path.join("data/cimanow/ar-series/ids", str(series_id))
     if not os.path.exists(series_dir):
         return None
-        
-    summary_file = os.path.join(series_dir, "summary.json")
-    if not os.path.exists(summary_file):
-        return None
-        
-    with open(summary_file, "r", encoding="utf-8") as f:
-        return json.load(f)
+    
+    qualities = {"qualities": {}}
+    # Check for VK qualities
+    for file in os.listdir(series_dir):
+        if file.startswith("vk_") and file.endswith(".json"):
+            if "vk" not in qualities["qualities"]:
+                qualities["qualities"]["vk"] = []
+            quality = file[3:-5]  # Remove vk_ prefix and .json suffix
+            qualities["qualities"]["vk"].append(quality)
+            
+    # Check for Deva qualities
+    for file in os.listdir(series_dir):
+        if file.startswith("deva_") and file.endswith(".json"):
+            if "deva" not in qualities["qualities"]:
+                qualities["qualities"]["deva"] = []
+            quality = file[5:-5]  # Remove deva_ prefix and .json suffix
+            qualities["qualities"]["deva"].append(quality)
+            
+    return qualities if qualities["qualities"] else None
+
 
 def load_quality_links(series_id, source, quality):
     quality_file = os.path.join("data/cimanow/ar-series/ids", str(series_id), f"{source}_{quality}.json")
