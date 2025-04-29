@@ -1,0 +1,91 @@
+2025-04-29 22:45:20,036 - INFO - === Starting CimaNow Episode Scraper (Refactored) ===
+2025-04-29 22:45:20,041 - INFO - Loaded 745 series definitions.
+2025-04-29 22:45:20,041 - INFO - Loaded progress for 0 series.
+2025-04-29 22:45:20,041 - INFO - --- Processing Series 1/745 ---
+2025-04-29 22:45:20,042 - INFO - --- Starting processing for Series: [EgyFilm] brystyg S01 (ID: 745) ---
+2025-04-29 22:45:20,539 - INFO - Found 2 episodes for https://cimanow.cc/selary/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d8%ac1/
+2025-04-29 22:45:20,540 - INFO - Found 2 new/failed episodes to process for [EgyFilm] brystyg S01.
+2025-04-29 22:45:20,540 - INFO - Processing [EgyFilm] brystyg S01 - Episode 01 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a/)
+2025-04-29 22:45:21,769 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a/watching/
+2025-04-29 22:45:21,769 - WARNING - No download links found for [EgyFilm] brystyg S01 Ep 01. Skipping save.
+2025-04-29 22:45:21,769 - ERROR - Failed to process episode 01 for [EgyFilm] brystyg S01 after retries.
+2025-04-29 22:45:21,871 - INFO - Processing [EgyFilm] brystyg S01 - Episode 02 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9/)
+2025-04-29 22:45:22,203 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9/watching/
+2025-04-29 22:45:22,203 - WARNING - No download links found for [EgyFilm] brystyg S01 Ep 02. Skipping save.
+2025-04-29 22:45:22,204 - ERROR - Failed to process episode 02 for [EgyFilm] brystyg S01 after retries.
+2025-04-29 22:45:22,308 - INFO - Processed 0 episodes successfully for [EgyFilm] brystyg S01.
+2025-04-29 22:45:22,308 - WARNING - 2 episodes failed processing for [EgyFilm] brystyg S01: ['01', '02']
+2025-04-29 22:45:22,308 - INFO - --- Finished processing Series: [EgyFilm] brystyg S01 (ID: 745) ---
+2025-04-29 22:45:23,308 - INFO - --- Processing Series 2/745 ---
+2025-04-29 22:45:23,308 - INFO - --- Starting processing for Series: [EgyFilm] asr S01 (ID: 744) ---
+2025-04-29 22:45:23,905 - INFO - Found 22 episodes for https://cimanow.cc/selary/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%ac1/
+2025-04-29 22:45:23,906 - INFO - Found 22 new/failed episodes to process for [EgyFilm] asr S01.
+2025-04-29 22:45:23,906 - INFO - Processing [EgyFilm] asr S01 - Episode 01 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a/)
+2025-04-29 22:45:24,253 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a/watching/
+2025-04-29 22:45:24,254 - WARNING - No download links found for [EgyFilm] asr S01 Ep 01. Skipping save.
+2025-04-29 22:45:24,254 - ERROR - Failed to process episode 01 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:24,356 - INFO - Processing [EgyFilm] asr S01 - Episode 02 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9/)
+2025-04-29 22:45:25,768 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9/watching/
+2025-04-29 22:45:25,769 - WARNING - No download links found for [EgyFilm] asr S01 Ep 02. Skipping save.
+2025-04-29 22:45:25,769 - ERROR - Failed to process episode 02 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:25,871 - INFO - Processing [EgyFilm] asr S01 - Episode 03 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9/)
+2025-04-29 22:45:27,139 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9/watching/
+2025-04-29 22:45:27,140 - WARNING - No download links found for [EgyFilm] asr S01 Ep 03. Skipping save.
+2025-04-29 22:45:27,140 - ERROR - Failed to process episode 03 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:27,242 - INFO - Processing [EgyFilm] asr S01 - Episode 04 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9/)
+2025-04-29 22:45:28,445 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9/watching/
+2025-04-29 22:45:28,446 - WARNING - No download links found for [EgyFilm] asr S01 Ep 04. Skipping save.
+2025-04-29 22:45:28,446 - ERROR - Failed to process episode 04 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:28,548 - INFO - Processing [EgyFilm] asr S01 - Episode 05 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9/)
+2025-04-29 22:45:29,790 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9/watching/
+2025-04-29 22:45:29,791 - WARNING - No download links found for [EgyFilm] asr S01 Ep 05. Skipping save.
+2025-04-29 22:45:29,791 - ERROR - Failed to process episode 05 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:29,895 - INFO - Processing [EgyFilm] asr S01 - Episode 06 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d8%a9/)
+2025-04-29 22:45:31,174 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d8%a9/watching/
+2025-04-29 22:45:31,174 - WARNING - No download links found for [EgyFilm] asr S01 Ep 06. Skipping save.
+2025-04-29 22:45:31,174 - ERROR - Failed to process episode 06 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:31,276 - INFO - Processing [EgyFilm] asr S01 - Episode 07 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9/)
+2025-04-29 22:45:32,457 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9/watching/
+2025-04-29 22:45:32,458 - WARNING - No download links found for [EgyFilm] asr S01 Ep 07. Skipping save.
+2025-04-29 22:45:32,458 - ERROR - Failed to process episode 07 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:32,560 - INFO - Processing [EgyFilm] asr S01 - Episode 08 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86%d8%a9/)
+2025-04-29 22:45:33,805 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86%d8%a9/watching/
+2025-04-29 22:45:33,806 - WARNING - No download links found for [EgyFilm] asr S01 Ep 08. Skipping save.
+2025-04-29 22:45:33,806 - ERROR - Failed to process episode 08 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:33,908 - INFO - Processing [EgyFilm] asr S01 - Episode 09 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d8%a9/)
+2025-04-29 22:45:35,096 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d8%a9/watching/
+2025-04-29 22:45:35,096 - WARNING - No download links found for [EgyFilm] asr S01 Ep 09. Skipping save.
+2025-04-29 22:45:35,096 - ERROR - Failed to process episode 09 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:35,199 - INFO - Processing [EgyFilm] asr S01 - Episode 10 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d8%a9/)
+2025-04-29 22:45:36,392 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d8%a9/watching/
+2025-04-29 22:45:36,393 - WARNING - No download links found for [EgyFilm] asr S01 Ep 10. Skipping save.
+2025-04-29 22:45:36,393 - ERROR - Failed to process episode 10 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:36,496 - INFO - Processing [EgyFilm] asr S01 - Episode 11 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:37,843 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%8a%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:37,844 - WARNING - No download links found for [EgyFilm] asr S01 Ep 11. Skipping save.
+2025-04-29 22:45:37,844 - ERROR - Failed to process episode 11 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:37,948 - INFO - Processing [EgyFilm] asr S01 - Episode 12 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:39,141 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:39,142 - WARNING - No download links found for [EgyFilm] asr S01 Ep 12. Skipping save.
+2025-04-29 22:45:39,142 - ERROR - Failed to process episode 12 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:39,246 - INFO - Processing [EgyFilm] asr S01 - Episode 13 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:40,432 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:40,432 - WARNING - No download links found for [EgyFilm] asr S01 Ep 13. Skipping save.
+2025-04-29 22:45:40,432 - ERROR - Failed to process episode 13 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:40,535 - INFO - Processing [EgyFilm] asr S01 - Episode 14 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:41,915 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:41,915 - WARNING - No download links found for [EgyFilm] asr S01 Ep 14. Skipping save.
+2025-04-29 22:45:41,916 - ERROR - Failed to process episode 14 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:42,018 - INFO - Processing [EgyFilm] asr S01 - Episode 15 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:43,296 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:43,297 - WARNING - No download links found for [EgyFilm] asr S01 Ep 15. Skipping save.
+2025-04-29 22:45:43,297 - ERROR - Failed to process episode 15 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:43,400 - INFO - Processing [EgyFilm] asr S01 - Episode 16 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:44,646 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:44,647 - WARNING - No download links found for [EgyFilm] asr S01 Ep 16. Skipping save.
+2025-04-29 22:45:44,647 - ERROR - Failed to process episode 16 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:44,750 - INFO - Processing [EgyFilm] asr S01 - Episode 17 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1/)
+2025-04-29 22:45:45,898 - WARNING - No download links found on https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9-%d8%b9%d8%b4%d8%b1/watching/
+2025-04-29 22:45:45,898 - WARNING - No download links found for [EgyFilm] asr S01 Ep 17. Skipping save.
+2025-04-29 22:45:45,899 - ERROR - Failed to process episode 17 for [EgyFilm] asr S01 after retries.
+2025-04-29 22:45:46,001 - INFO - Processing [EgyFilm] asr S01 - Episode 18 (https://cimanow.cc/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86%d8%a9-%d8%b9%d8%b4%d8%b1/)

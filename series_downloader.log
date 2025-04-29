@@ -1,0 +1,750 @@
+2025-04-29 22:50:53,285 - INFO - Found 2 new episodes for [EgyFilm] brystyg S01
+2025-04-29 22:50:53,960 - INFO - Successfully completed series: [EgyFilm] brystyg S01
+2025-04-29 22:50:53,960 - ERROR - Error processing series [EgyFilm] brystyg S01: 'last_update'
+2025-04-29 22:50:54,287 - INFO - Found 22 new episodes for [EgyFilm] asr S01
+2025-04-29 22:51:03,337 - INFO - Successfully completed series: [EgyFilm] asr S01
+2025-04-29 22:51:03,337 - ERROR - Error processing series [EgyFilm] asr S01: 'last_update'
+2025-04-29 22:51:03,667 - INFO - Found 15 new episodes for [EgyFilm] 2l3 al7gr S02
+2025-04-29 22:51:22,319 - INFO - Successfully completed series: [EgyFilm] 2l3 al7gr S02
+2025-04-29 22:51:22,319 - ERROR - Error processing series [EgyFilm] 2l3 al7gr S02: 'last_update'
+2025-04-29 22:51:23,720 - INFO - Found 15 new episodes for [EgyFilm] bnat hmam S01
+2025-04-29 22:51:42,545 - INFO - Successfully completed series: [EgyFilm] bnat hmam S01
+2025-04-29 22:51:42,545 - ERROR - Error processing series [EgyFilm] bnat hmam S01: 'last_update'
+2025-04-29 22:51:42,872 - INFO - Found 15 new episodes for [EgyFilm] lam shmsya S01
+2025-04-29 22:51:59,616 - INFO - Successfully completed series: [EgyFilm] lam shmsya S01
+2025-04-29 22:51:59,616 - ERROR - Error processing series [EgyFilm] lam shmsya S01: 'last_update'
+2025-04-29 22:52:00,914 - INFO - Found 15 new episodes for [EgyFilm] shbab amraa S01
+2025-04-29 22:52:16,877 - INFO - No new episodes found for [EgyFilm] brystyg S01
+2025-04-29 22:52:17,195 - INFO - No new episodes found for [EgyFilm] asr S01
+2025-04-29 22:52:17,543 - INFO - No new episodes found for [EgyFilm] 2l3 al7gr S02
+2025-04-29 22:52:17,896 - INFO - No new episodes found for [EgyFilm] bnat hmam S01
+2025-04-29 22:52:18,247 - INFO - No new episodes found for [EgyFilm] lam shmsya S01
+2025-04-29 22:52:18,605 - INFO - Found 6 new episodes for [EgyFilm] shbab amraa S01
+2025-04-29 22:52:25,073 - INFO - Successfully completed series: [EgyFilm] shbab amraa S01
+2025-04-29 22:52:25,074 - ERROR - Error processing series [EgyFilm] shbab amraa S01: 'last_update'
+2025-04-29 22:52:25,393 - INFO - Found 15 new episodes for [EgyFilm] zlm almstba S01
+2025-04-29 22:52:42,534 - INFO - Successfully completed series: [EgyFilm] zlm almstba S01
+2025-04-29 22:52:42,534 - ERROR - Error processing series [EgyFilm] zlm almstba S01: 'last_update'
+2025-04-29 22:52:42,854 - INFO - Found 15 new episodes for [EgyFilm] alghawy S01
+2025-04-29 22:53:01,354 - INFO - Successfully completed series: [EgyFilm] alghawy S01
+2025-04-29 22:53:01,354 - ERROR - Error processing series [EgyFilm] alghawy S01: 'last_update'
+2025-04-29 22:53:02,656 - INFO - Found 15 new episodes for [EgyFilm] mnthy alsla7ya S01
+2025-04-29 22:53:20,970 - INFO - Successfully completed series: [EgyFilm] mnthy alsla7ya S01
+2025-04-29 22:53:20,970 - ERROR - Error processing series [EgyFilm] mnthy alsla7ya S01: 'last_update'
+2025-04-29 22:53:22,273 - INFO - Found 15 new episodes for [EgyFilm] 7sba 3mry S01
+2025-04-29 22:53:40,161 - INFO - Successfully completed series: [EgyFilm] 7sba 3mry S01
+2025-04-29 22:53:40,161 - ERROR - Error processing series [EgyFilm] 7sba 3mry S01: 'last_update'
+2025-04-29 22:53:40,471 - INFO - Found 15 new episodes for [EgyFilm] ns alsh3b asmh m7md S01
+2025-04-29 22:53:59,395 - INFO - Successfully completed series: [EgyFilm] ns alsh3b asmh m7md S01
+2025-04-29 22:53:59,395 - ERROR - Error processing series [EgyFilm] ns alsh3b asmh m7md S01: 'last_update'
+2025-04-29 22:54:00,773 - INFO - Found 15 new episodes for [EgyFilm] 2hwa alm7ta S01
+2025-04-29 22:54:20,093 - INFO - Successfully completed series: [EgyFilm] 2hwa alm7ta S01
+2025-04-29 22:54:20,093 - ERROR - Error processing series [EgyFilm] 2hwa alm7ta S01: 'last_update'
+2025-04-29 22:54:21,302 - INFO - Found 15 new episodes for [EgyFilm] 3aysha aldwr S01
+2025-04-29 22:54:39,759 - INFO - Successfully completed series: [EgyFilm] 3aysha aldwr S01
+2025-04-29 22:54:39,760 - ERROR - Error processing series [EgyFilm] 3aysha aldwr S01: 'last_update'
+2025-04-29 22:54:40,079 - INFO - Found 30 new episodes for [EgyFilm] r7ma S01
+2025-04-29 22:55:22,924 - INFO - Successfully completed series: [EgyFilm] r7ma S01
+2025-04-29 22:55:22,924 - ERROR - Error processing series [EgyFilm] r7ma S01: 'last_update'
+2025-04-29 22:55:24,369 - INFO - Found 30 new episodes for [EgyFilm] ywm ml2ak S01
+2025-04-29 22:56:02,718 - INFO - Successfully completed series: [EgyFilm] ywm ml2ak S01
+2025-04-29 22:56:02,718 - ERROR - Error processing series [EgyFilm] ywm ml2ak S01: 'last_update'
+2025-04-29 22:56:03,032 - INFO - Found 15 new episodes for [EgyFilm] llazkya2 f2t S01
+2025-04-29 22:56:21,801 - INFO - Successfully completed series: [EgyFilm] llazkya2 f2t S01
+2025-04-29 22:56:21,802 - ERROR - Error processing series [EgyFilm] llazkya2 f2t S01: 'last_update'
+2025-04-29 22:56:23,329 - INFO - Found 30 new episodes for [EgyFilm] alzafr S01
+2025-04-29 22:57:19,940 - INFO - Successfully completed series: [EgyFilm] alzafr S01
+2025-04-29 22:57:19,940 - ERROR - Error processing series [EgyFilm] alzafr S01: 'last_update'
+2025-04-29 22:57:21,644 - INFO - Found 29 new episodes for [EgyFilm] alshmysy S01
+2025-04-29 22:58:13,710 - INFO - Successfully completed series: [EgyFilm] alshmysy S01
+2025-04-29 22:58:13,710 - ERROR - Error processing series [EgyFilm] alshmysy S01: 'last_update'
+2025-04-29 22:58:14,321 - INFO - Found 15 new episodes for [EgyFilm] ahl alkhtaya S01
+2025-04-29 22:58:42,808 - INFO - Successfully completed series: [EgyFilm] ahl alkhtaya S01
+2025-04-29 22:58:42,809 - ERROR - Error processing series [EgyFilm] ahl alkhtaya S01: 'last_update'
+2025-04-29 22:58:44,471 - INFO - Found 30 new episodes for [EgyFilm] t7t alard S01
+2025-04-29 22:59:35,956 - INFO - Successfully completed series: [EgyFilm] t7t alard S01
+2025-04-29 22:59:35,956 - ERROR - Error processing series [EgyFilm] t7t alard S01: 'last_update'
+2025-04-29 22:59:37,806 - INFO - Found 30 new episodes for [EgyFilm] gwma S01
+2025-04-29 23:00:30,172 - INFO - Successfully completed series: [EgyFilm] gwma S01
+2025-04-29 23:00:30,172 - ERROR - Error processing series [EgyFilm] gwma S01: 'last_update'
+2025-04-29 23:00:32,214 - INFO - Found 30 new episodes for [EgyFilm] zhra 3mry S01
+2025-04-29 23:01:25,503 - INFO - Successfully completed series: [EgyFilm] zhra 3mry S01
+2025-04-29 23:01:25,503 - ERROR - Error processing series [EgyFilm] zhra 3mry S01: 'last_update'
+2025-04-29 23:01:27,486 - INFO - Found 30 new episodes for [EgyFilm] fy l7za S01
+2025-04-29 23:02:17,362 - INFO - Successfully completed series: [EgyFilm] fy l7za S01
+2025-04-29 23:02:17,363 - ERROR - Error processing series [EgyFilm] fy l7za S01: 'last_update'
+2025-04-29 23:02:19,145 - INFO - Found 15 new episodes for [EgyFilm] alamyra S01
+2025-04-29 23:02:45,015 - INFO - Successfully completed series: [EgyFilm] alamyra S01
+2025-04-29 23:02:45,015 - ERROR - Error processing series [EgyFilm] alamyra S01: 'last_update'
+2025-04-29 23:02:45,649 - INFO - Found 21 new episodes for [EgyFilm] m3awya S01
+2025-04-29 23:03:20,800 - INFO - Successfully completed series: [EgyFilm] m3awya S01
+2025-04-29 23:03:20,801 - ERROR - Error processing series [EgyFilm] m3awya S01: 'last_update'
+2025-04-29 23:03:22,436 - INFO - Found 15 new episodes for [EgyFilm] try2 albdaya S01
+2025-04-29 23:03:48,722 - INFO - Successfully completed series: [EgyFilm] try2 albdaya S01
+2025-04-29 23:03:48,722 - ERROR - Error processing series [EgyFilm] try2 albdaya S01: 'last_update'
+2025-04-29 23:03:49,244 - INFO - Found 30 new episodes for [EgyFilm] syd alnas S01
+2025-04-29 23:04:28,448 - INFO - Successfully completed series: [EgyFilm] syd alnas S01
+2025-04-29 23:04:28,449 - ERROR - Error processing series [EgyFilm] syd alnas S01: 'last_update'
+2025-04-29 23:04:28,813 - INFO - Found 30 new episodes for [EgyFilm] fhd albtl S01
+2025-04-29 23:05:09,534 - INFO - Successfully completed series: [EgyFilm] fhd albtl S01
+2025-04-29 23:05:09,534 - ERROR - Error processing series [EgyFilm] fhd albtl S01: 'last_update'
+2025-04-29 23:05:10,799 - INFO - Found 15 new episodes for [EgyFilm] 2lby wmfta7h S01
+2025-04-29 23:05:30,066 - INFO - Successfully completed series: [EgyFilm] 2lby wmfta7h S01
+2025-04-29 23:05:30,066 - ERROR - Error processing series [EgyFilm] 2lby wmfta7h S01: 'last_update'
+2025-04-29 23:05:30,442 - INFO - Found 30 new episodes for [EgyFilm] nfs S01
+2025-04-29 23:06:07,455 - INFO - Successfully completed series: [EgyFilm] nfs S01
+2025-04-29 23:06:07,455 - ERROR - Error processing series [EgyFilm] nfs S01: 'last_update'
+2025-04-29 23:06:07,834 - INFO - Found 15 new episodes for [EgyFilm] alf lyla wlyla: gwdr S02
+2025-04-29 23:06:27,227 - INFO - Successfully completed series: [EgyFilm] alf lyla wlyla: gwdr S02
+2025-04-29 23:06:27,228 - ERROR - Error processing series [EgyFilm] alf lyla wlyla: gwdr S02: 'last_update'
+2025-04-29 23:06:27,604 - INFO - Found 30 new episodes for [EgyFilm] shar3 ala3shy S01
+2025-04-29 23:07:06,371 - INFO - Successfully completed series: [EgyFilm] shar3 ala3shy S01
+2025-04-29 23:07:06,371 - ERROR - Error processing series [EgyFilm] shar3 ala3shy S01: 'last_update'
+2025-04-29 23:07:07,859 - INFO - Found 30 new episodes for [EgyFilm] am 44 S01
+2025-04-29 23:07:47,425 - INFO - Successfully completed series: [EgyFilm] am 44 S01
+2025-04-29 23:07:47,425 - ERROR - Error processing series [EgyFilm] am 44 S01: 'last_update'
+2025-04-29 23:07:47,769 - INFO - Found 30 new episodes for [EgyFilm] abn albasha S01
+2025-04-29 23:08:26,665 - INFO - Successfully completed series: [EgyFilm] abn albasha S01
+2025-04-29 23:08:26,665 - ERROR - Error processing series [EgyFilm] abn albasha S01: 'last_update'
+2025-04-29 23:08:28,169 - INFO - Found 35 new episodes for [EgyFilm] lyaly rwksy S01
+2025-04-29 23:09:13,046 - INFO - Successfully completed series: [EgyFilm] lyaly rwksy S01
+2025-04-29 23:09:13,046 - ERROR - Error processing series [EgyFilm] lyaly rwksy S01: 'last_update'
+2025-04-29 23:09:14,325 - INFO - Found 15 new episodes for [EgyFilm] gryma mntsf allyl S01
+2025-04-29 23:09:33,267 - INFO - Successfully completed series: [EgyFilm] gryma mntsf allyl S01
+2025-04-29 23:09:33,267 - ERROR - Error processing series [EgyFilm] gryma mntsf allyl S01: 'last_update'
+2025-04-29 23:09:34,535 - INFO - Found 15 new episodes for [EgyFilm] alns S01
+2025-04-29 23:09:53,273 - INFO - Successfully completed series: [EgyFilm] alns S01
+2025-04-29 23:09:53,274 - ERROR - Error processing series [EgyFilm] alns S01: 'last_update'
+2025-04-29 23:09:53,630 - INFO - Found 30 new episodes for [EgyFilm] 7kym basha S01
+2025-04-29 23:10:33,260 - INFO - Successfully completed series: [EgyFilm] 7kym basha S01
+2025-04-29 23:10:33,260 - ERROR - Error processing series [EgyFilm] 7kym basha S01: 'last_update'
+2025-04-29 23:10:34,627 - INFO - Found 15 new episodes for [EgyFilm] akhwaty S01
+2025-04-29 23:10:54,416 - INFO - Successfully completed series: [EgyFilm] akhwaty S01
+2025-04-29 23:10:54,417 - ERROR - Error processing series [EgyFilm] akhwaty S01: 'last_update'
+2025-04-29 23:10:54,772 - INFO - Found 30 new episodes for [EgyFilm] al7langy S01
+2025-04-29 23:11:38,378 - INFO - Successfully completed series: [EgyFilm] al7langy S01
+2025-04-29 23:11:38,378 - ERROR - Error processing series [EgyFilm] al7langy S01: 'last_update'
+2025-04-29 23:11:38,720 - INFO - Found 30 new episodes for [EgyFilm] al3tawla S02
+2025-04-29 23:12:15,411 - INFO - Successfully completed series: [EgyFilm] al3tawla S02
+2025-04-29 23:12:15,411 - ERROR - Error processing series [EgyFilm] al3tawla S02: 'last_update'
+2025-04-29 23:12:16,829 - INFO - Found 15 new episodes for [EgyFilm] 32bal 3ndkwa S01
+2025-04-29 23:12:35,454 - INFO - Successfully completed series: [EgyFilm] 32bal 3ndkwa S01
+2025-04-29 23:12:35,454 - ERROR - Error processing series [EgyFilm] 32bal 3ndkwa S01: 'last_update'
+2025-04-29 23:12:35,821 - INFO - Found 30 new episodes for [EgyFilm] wt2abl 7byb S01
+2025-04-29 23:13:15,033 - INFO - Successfully completed series: [EgyFilm] wt2abl 7byb S01
+2025-04-29 23:13:15,033 - ERROR - Error processing series [EgyFilm] wt2abl 7byb S01: 'last_update'
+2025-04-29 23:13:16,359 - INFO - Found 15 new episodes for [EgyFilm] athyna S01
+2025-04-29 23:13:36,099 - INFO - Successfully completed series: [EgyFilm] athyna S01
+2025-04-29 23:13:36,100 - ERROR - Error processing series [EgyFilm] athyna S01: 'last_update'
+2025-04-29 23:13:36,451 - INFO - Found 30 new episodes for [EgyFilm] ash ash S01
+2025-04-29 23:14:16,701 - INFO - Successfully completed series: [EgyFilm] ash ash S01
+2025-04-29 23:14:16,701 - ERROR - Error processing series [EgyFilm] ash ash S01: 'last_update'
+2025-04-29 23:14:17,077 - INFO - Found 30 new episodes for [EgyFilm] t7t sab3 ard S01
+2025-04-29 23:14:55,539 - INFO - Successfully completed series: [EgyFilm] t7t sab3 ard S01
+2025-04-29 23:14:55,539 - ERROR - Error processing series [EgyFilm] t7t sab3 ard S01: 'last_update'
+2025-04-29 23:14:56,938 - INFO - Found 30 new episodes for [EgyFilm] byt 7mwla S01
+2025-04-29 23:15:35,982 - INFO - Successfully completed series: [EgyFilm] byt 7mwla S01
+2025-04-29 23:15:35,982 - ERROR - Error processing series [EgyFilm] byt 7mwla S01: 'last_update'
+2025-04-29 23:15:37,402 - INFO - Found 30 new episodes for [EgyFilm] albtl S01
+2025-04-29 23:16:14,682 - INFO - Successfully completed series: [EgyFilm] albtl S01
+2025-04-29 23:16:14,683 - ERROR - Error processing series [EgyFilm] albtl S01: 'last_update'
+2025-04-29 23:16:14,966 - INFO - Found 30 new episodes for [EgyFilm] baldm S01
+2025-04-29 23:16:52,419 - INFO - Successfully completed series: [EgyFilm] baldm S01
+2025-04-29 23:16:52,419 - ERROR - Error processing series [EgyFilm] baldm S01: 'last_update'
+2025-04-29 23:16:52,697 - INFO - Found 15 new episodes for [EgyFilm] 80 bakw S01
+2025-04-29 23:17:11,095 - INFO - Successfully completed series: [EgyFilm] 80 bakw S01
+2025-04-29 23:17:11,095 - ERROR - Error processing series [EgyFilm] 80 bakw S01: 'last_update'
+2025-04-29 23:17:11,375 - INFO - Found 30 new episodes for [EgyFilm] shhada m3amla atfal S01
+2025-04-29 23:17:49,220 - INFO - Successfully completed series: [EgyFilm] shhada m3amla atfal S01
+2025-04-29 23:17:49,220 - ERROR - Error processing series [EgyFilm] shhada m3amla atfal S01: 'last_update'
+2025-04-29 23:17:49,505 - INFO - Found 15 new episodes for [EgyFilm] ashghal sh2a gda S02
+2025-04-29 23:18:07,583 - INFO - Successfully completed series: [EgyFilm] ashghal sh2a gda S02
+2025-04-29 23:18:07,584 - ERROR - Error processing series [EgyFilm] ashghal sh2a gda S02: 'last_update'
+2025-04-29 23:18:07,861 - INFO - Found 15 new episodes for [EgyFilm] wlad alshms S01
+2025-04-29 23:18:25,925 - INFO - Successfully completed series: [EgyFilm] wlad alshms S01
+2025-04-29 23:18:25,925 - ERROR - Error processing series [EgyFilm] wlad alshms S01: 'last_update'
+2025-04-29 23:18:26,206 - INFO - Found 15 new episodes for [EgyFilm] alkabtn S01
+2025-04-29 23:18:43,894 - INFO - Successfully completed series: [EgyFilm] alkabtn S01
+2025-04-29 23:18:43,894 - ERROR - Error processing series [EgyFilm] alkabtn S01: 'last_update'
+2025-04-29 23:18:44,182 - INFO - Found 30 new episodes for [EgyFilm] almda7 S05
+2025-04-29 23:19:20,608 - INFO - Successfully completed series: [EgyFilm] almda7 S05
+2025-04-29 23:19:20,608 - ERROR - Error processing series [EgyFilm] almda7 S05: 'last_update'
+2025-04-29 23:19:20,885 - INFO - Found 15 new episodes for [EgyFilm] kaml al3dd S03
+2025-04-29 23:19:38,842 - INFO - Successfully completed series: [EgyFilm] kaml al3dd S03
+2025-04-29 23:19:38,842 - ERROR - Error processing series [EgyFilm] kaml al3dd S03: 'last_update'
+2025-04-29 23:19:39,150 - INFO - Found 15 new episodes for [EgyFilm] alshrn2a S01
+2025-04-29 23:19:57,835 - INFO - Successfully completed series: [EgyFilm] alshrn2a S01
+2025-04-29 23:19:57,835 - ERROR - Error processing series [EgyFilm] alshrn2a S01: 'last_update'
+2025-04-29 23:19:59,119 - INFO - Found 8 new episodes for [EgyFilm] rw7 gdw S01
+2025-04-29 23:20:08,875 - INFO - Successfully completed series: [EgyFilm] rw7 gdw S01
+2025-04-29 23:20:08,875 - ERROR - Error processing series [EgyFilm] rw7 gdw S01: 'last_update'
+2025-04-29 23:20:09,173 - INFO - Found 30 new episodes for [EgyFilm] sf7a byda S01
+2025-04-29 23:20:45,787 - INFO - Successfully completed series: [EgyFilm] sf7a byda S01
+2025-04-29 23:20:45,787 - ERROR - Error processing series [EgyFilm] sf7a byda S01: 'last_update'
+2025-04-29 23:20:47,127 - INFO - Found 10 new episodes for [EgyFilm] trad S01
+2025-04-29 23:20:59,915 - INFO - Successfully completed series: [EgyFilm] trad S01
+2025-04-29 23:20:59,915 - ERROR - Error processing series [EgyFilm] trad S01: 'last_update'
+2025-04-29 23:21:01,292 - INFO - Found 10 new episodes for [EgyFilm] a2ama gbrya S01
+2025-04-29 23:21:14,188 - INFO - Successfully completed series: [EgyFilm] a2ama gbrya S01
+2025-04-29 23:21:14,190 - ERROR - Error processing series [EgyFilm] a2ama gbrya S01: 'last_update'
+2025-04-29 23:21:14,501 - INFO - Found 10 new episodes for [EgyFilm] srab S01
+2025-04-29 23:21:27,083 - INFO - Successfully completed series: [EgyFilm] srab S01
+2025-04-29 23:21:27,083 - ERROR - Error processing series [EgyFilm] srab S01: 'last_update'
+2025-04-29 23:21:28,318 - INFO - Found 8 new episodes for [EgyFilm] albth S01
+2025-04-29 23:21:38,169 - INFO - Successfully completed series: [EgyFilm] albth S01
+2025-04-29 23:21:38,169 - ERROR - Error processing series [EgyFilm] albth S01: 'last_update'
+2025-04-29 23:21:38,476 - INFO - Found 10 new episodes for [EgyFilm] mwdw3 3a2ly S03
+2025-04-29 23:21:50,951 - INFO - Successfully completed series: [EgyFilm] mwdw3 3a2ly S03
+2025-04-29 23:21:50,951 - ERROR - Error processing series [EgyFilm] mwdw3 3a2ly S03: 'last_update'
+2025-04-29 23:21:52,426 - INFO - Found 45 new episodes for [EgyFilm] al2dr S01
+2025-04-29 23:22:50,656 - INFO - Successfully completed series: [EgyFilm] al2dr S01
+2025-04-29 23:22:50,656 - ERROR - Error processing series [EgyFilm] al2dr S01: 'last_update'
+2025-04-29 23:22:51,941 - INFO - Found 8 new episodes for [EgyFilm] f2ra alsa7r S01
+2025-04-29 23:23:01,845 - INFO - Successfully completed series: [EgyFilm] f2ra alsa7r S01
+2025-04-29 23:23:01,845 - ERROR - Error processing series [EgyFilm] f2ra alsa7r S01: 'last_update'
+2025-04-29 23:23:03,151 - INFO - Found 10 new episodes for [EgyFilm] almhrg S01
+2025-04-29 23:23:15,376 - INFO - Successfully completed series: [EgyFilm] almhrg S01
+2025-04-29 23:23:15,376 - ERROR - Error processing series [EgyFilm] almhrg S01: 'last_update'
+2025-04-29 23:23:15,693 - INFO - Found 8 new episodes for [EgyFilm] mw3d m3 almady S01
+2025-04-29 23:23:26,147 - INFO - Successfully completed series: [EgyFilm] mw3d m3 almady S01
+2025-04-29 23:23:26,147 - ERROR - Error processing series [EgyFilm] mw3d m3 almady S01: 'last_update'
+2025-04-29 23:23:27,498 - INFO - Found 26 new episodes for [EgyFilm] sa3th wtarykhh S01
+2025-04-29 23:24:00,965 - INFO - Successfully completed series: [EgyFilm] sa3th wtarykhh S01
+2025-04-29 23:24:00,965 - ERROR - Error processing series [EgyFilm] sa3th wtarykhh S01: 'last_update'
+2025-04-29 23:24:02,547 - INFO - Found 50 new episodes for [EgyFilm] n2ta swda S01
+2025-04-29 23:25:10,472 - INFO - Successfully completed series: [EgyFilm] n2ta swda S01
+2025-04-29 23:25:10,472 - ERROR - Error processing series [EgyFilm] n2ta swda S01: 'last_update'
+2025-04-29 23:25:11,892 - INFO - Found 30 new episodes for [EgyFilm] r2m sry S01
+2025-04-29 23:25:52,333 - INFO - Successfully completed series: [EgyFilm] r2m sry S01
+2025-04-29 23:25:52,333 - ERROR - Error processing series [EgyFilm] r2m sry S01: 'last_update'
+2025-04-29 23:25:52,691 - INFO - Found 20 new episodes for [EgyFilm] bnat althanwy S02
+2025-04-29 23:26:17,494 - INFO - Successfully completed series: [EgyFilm] bnat althanwy S02
+2025-04-29 23:26:17,495 - ERROR - Error processing series [EgyFilm] bnat althanwy S02: 'last_update'
+2025-04-29 23:26:19,004 - INFO - Found 45 new episodes for [EgyFilm] wtr 7sas S01
+2025-04-29 23:27:17,086 - INFO - Successfully completed series: [EgyFilm] wtr 7sas S01
+2025-04-29 23:27:17,086 - ERROR - Error processing series [EgyFilm] wtr 7sas S01: 'last_update'
+2025-04-29 23:27:17,389 - INFO - Found 8 new episodes for [EgyFilm] baswrd S01
+2025-04-29 23:27:27,110 - INFO - Successfully completed series: [EgyFilm] baswrd S01
+2025-04-29 23:27:27,111 - ERROR - Error processing series [EgyFilm] baswrd S01: 'last_update'
+2025-04-29 23:27:27,422 - INFO - Found 10 new episodes for [EgyFilm] ٦ shhwr S01
+2025-04-29 23:27:42,686 - INFO - Successfully completed series: [EgyFilm] ٦ shhwr S01
+2025-04-29 23:27:42,686 - ERROR - Error processing series [EgyFilm] ٦ shhwr S01: 'last_update'
+2025-04-29 23:27:42,989 - INFO - Found 12 new episodes for [EgyFilm] mt3m al7bayb S01
+2025-04-29 23:27:59,793 - INFO - Successfully completed series: [EgyFilm] mt3m al7bayb S01
+2025-04-29 23:27:59,793 - ERROR - Error processing series [EgyFilm] mt3m al7bayb S01: 'last_update'
+2025-04-29 23:28:00,096 - INFO - Found 6 new episodes for [EgyFilm] alb7th 3n 3la S02
+2025-04-29 23:28:08,065 - INFO - Successfully completed series: [EgyFilm] alb7th 3n 3la S02
+2025-04-29 23:28:08,065 - ERROR - Error processing series [EgyFilm] alb7th 3n 3la S02: 'last_update'
+2025-04-29 23:28:09,433 - INFO - Found 30 new episodes for [EgyFilm] tyta zwzw S01
+2025-04-29 23:28:45,949 - INFO - Successfully completed series: [EgyFilm] tyta zwzw S01
+2025-04-29 23:28:45,949 - ERROR - Error processing series [EgyFilm] tyta zwzw S01: 'last_update'
+2025-04-29 23:28:47,241 - INFO - Found 30 new episodes for [EgyFilm] brghm al2anwn S01
+2025-04-29 23:29:27,140 - INFO - Successfully completed series: [EgyFilm] brghm al2anwn S01
+2025-04-29 23:29:27,140 - ERROR - Error processing series [EgyFilm] brghm al2anwn S01: 'last_update'
+2025-04-29 23:29:28,283 - INFO - Found 12 new episodes for [EgyFilm] dybw S01
+2025-04-29 23:29:43,741 - INFO - Successfully completed series: [EgyFilm] dybw S01
+2025-04-29 23:29:43,741 - ERROR - Error processing series [EgyFilm] dybw S01: 'last_update'
+2025-04-29 23:29:44,924 - INFO - Found 8 new episodes for [EgyFilm] antrfyw S01
+2025-04-29 23:29:54,729 - INFO - Successfully completed series: [EgyFilm] antrfyw S01
+2025-04-29 23:29:54,729 - ERROR - Error processing series [EgyFilm] antrfyw S01: 'last_update'
+2025-04-29 23:29:55,995 - INFO - Found 8 new episodes for [EgyFilm] f3l mady S01
+2025-04-29 23:30:05,584 - INFO - Successfully completed series: [EgyFilm] f3l mady S01
+2025-04-29 23:30:05,585 - ERROR - Error processing series [EgyFilm] f3l mady S01: 'last_update'
+2025-04-29 23:30:06,864 - INFO - Found 15 new episodes for [EgyFilm] 3mr afndy S01
+2025-04-29 23:30:25,349 - INFO - Successfully completed series: [EgyFilm] 3mr afndy S01
+2025-04-29 23:30:25,349 - ERROR - Error processing series [EgyFilm] 3mr afndy S01: 'last_update'
+2025-04-29 23:30:26,497 - INFO - Found 10 new episodes for [EgyFilm] albyt alml3wn S01
+2025-04-29 23:30:38,933 - INFO - Successfully completed series: [EgyFilm] albyt alml3wn S01
+2025-04-29 23:30:38,933 - ERROR - Error processing series [EgyFilm] albyt alml3wn S01: 'last_update'
+2025-04-29 23:30:40,145 - INFO - Found 6 new episodes for [EgyFilm] bnwn S01
+2025-04-29 23:30:48,671 - INFO - Successfully completed series: [EgyFilm] bnwn S01
+2025-04-29 23:30:48,671 - ERROR - Error processing series [EgyFilm] bnwn S01: 'last_update'
+2025-04-29 23:30:49,840 - INFO - Found 15 new episodes for [EgyFilm] 7rb nfsya S01
+2025-04-29 23:31:10,575 - INFO - Successfully completed series: [EgyFilm] 7rb nfsya S01
+2025-04-29 23:31:10,575 - ERROR - Error processing series [EgyFilm] 7rb nfsya S01: 'last_update'
+2025-04-29 23:31:10,931 - INFO - Found 45 new episodes for [EgyFilm] alwsfa als7rya S01
+2025-04-29 23:32:10,811 - INFO - Successfully completed series: [EgyFilm] alwsfa als7rya S01
+2025-04-29 23:32:10,811 - ERROR - Error processing series [EgyFilm] alwsfa als7rya S01: 'last_update'
+2025-04-29 23:32:12,038 - INFO - Found 10 new episodes for [EgyFilm] am aldnya S02
+2025-04-29 23:32:24,138 - INFO - Successfully completed series: [EgyFilm] am aldnya S02
+2025-04-29 23:32:24,138 - ERROR - Error processing series [EgyFilm] am aldnya S02: 'last_update'
+2025-04-29 23:32:25,415 - INFO - Found 30 new episodes for [EgyFilm] w3d S01
+2025-04-29 23:33:03,089 - INFO - Successfully completed series: [EgyFilm] w3d S01
+2025-04-29 23:33:03,089 - ERROR - Error processing series [EgyFilm] w3d S01: 'last_update'
+2025-04-29 23:33:04,729 - INFO - Found 45 new episodes for [EgyFilm] mftr2 tr2 S01
+2025-04-29 23:34:02,901 - INFO - Successfully completed series: [EgyFilm] mftr2 tr2 S01
+2025-04-29 23:34:02,901 - ERROR - Error processing series [EgyFilm] mftr2 tr2 S01: 'last_update'
+2025-04-29 23:34:04,242 - INFO - Found 30 new episodes for [EgyFilm] wly al3hd S01
+2025-04-29 23:34:42,758 - INFO - Successfully completed series: [EgyFilm] wly al3hd S01
+2025-04-29 23:34:42,758 - ERROR - Error processing series [EgyFilm] wly al3hd S01: 'last_update'
+2025-04-29 23:34:44,003 - INFO - Found 15 new episodes for [EgyFilm] alnsyan S01
+2025-04-29 23:35:03,371 - INFO - Successfully completed series: [EgyFilm] alnsyan S01
+2025-04-29 23:35:03,371 - ERROR - Error processing series [EgyFilm] alnsyan S01: 'last_update'
+2025-04-29 23:35:03,730 - INFO - Found 10 new episodes for [EgyFilm] dwa3y alsfr S01
+2025-04-29 23:35:15,876 - INFO - Successfully completed series: [EgyFilm] dwa3y alsfr S01
+2025-04-29 23:35:15,877 - ERROR - Error processing series [EgyFilm] dwa3y alsfr S01: 'last_update'
+2025-04-29 23:35:17,335 - INFO - Found 30 new episodes for [EgyFilm] wld alghlaba S01
+2025-04-29 23:35:59,599 - INFO - Successfully completed series: [EgyFilm] wld alghlaba S01
+2025-04-29 23:35:59,599 - ERROR - Error processing series [EgyFilm] wld alghlaba S01: 'last_update'
+2025-04-29 23:36:00,855 - INFO - Found 10 new episodes for [EgyFilm] ala altla2 S01
+2025-04-29 23:36:13,363 - INFO - Successfully completed series: [EgyFilm] ala altla2 S01
+2025-04-29 23:36:13,364 - ERROR - Error processing series [EgyFilm] ala altla2 S01: 'last_update'
+2025-04-29 23:36:13,674 - INFO - Found 10 new episodes for [EgyFilm] albyt byty S02
+2025-04-29 23:36:26,455 - INFO - Successfully completed series: [EgyFilm] albyt byty S02
+2025-04-29 23:36:26,455 - ERROR - Error processing series [EgyFilm] albyt byty S02: 'last_update'
+2025-04-29 23:36:26,914 - INFO - Found 30 new episodes for [EgyFilm] mwga 7ara S01
+2025-04-29 23:37:05,852 - INFO - Successfully completed series: [EgyFilm] mwga 7ara S01
+2025-04-29 23:37:05,853 - ERROR - Error processing series [EgyFilm] mwga 7ara S01: 'last_update'
+2025-04-29 23:37:08,409 - INFO - Found 90 new episodes for [EgyFilm] l3ba 7b S01
+2025-04-29 23:39:33,988 - INFO - Successfully completed series: [EgyFilm] l3ba 7b S01
+2025-04-29 23:39:33,988 - ERROR - Error processing series [EgyFilm] l3ba 7b S01: 'last_update'
+2025-04-29 23:39:34,307 - INFO - Found 25 new episodes for [EgyFilm] snds S02
+2025-04-29 23:40:08,514 - INFO - Successfully completed series: [EgyFilm] snds S02
+2025-04-29 23:40:08,514 - ERROR - Error processing series [EgyFilm] snds S02: 'last_update'
+2025-04-29 23:40:08,976 - INFO - Found 15 new episodes for [EgyFilm] kwbra S01
+2025-04-29 23:40:28,445 - INFO - Successfully completed series: [EgyFilm] kwbra S01
+2025-04-29 23:40:28,445 - ERROR - Error processing series [EgyFilm] kwbra S01: 'last_update'
+2025-04-29 23:40:29,813 - INFO - Found 15 new episodes for [EgyFilm] 3shryn arb3a w3shryn S02
+2025-04-29 23:40:48,811 - INFO - Successfully completed series: [EgyFilm] 3shryn arb3a w3shryn S02
+2025-04-29 23:40:48,811 - ERROR - Error processing series [EgyFilm] 3shryn arb3a w3shryn S02: 'last_update'
+2025-04-29 23:40:50,108 - INFO - Found 15 new episodes for [EgyFilm] r7yl S01
+2025-04-29 23:41:08,316 - INFO - Successfully completed series: [EgyFilm] r7yl S01
+2025-04-29 23:41:08,317 - ERROR - Error processing series [EgyFilm] r7yl S01: 'last_update'
+2025-04-29 23:41:09,645 - INFO - Found 15 new episodes for [EgyFilm] frawla S01
+2025-04-29 23:41:27,808 - INFO - Successfully completed series: [EgyFilm] frawla S01
+2025-04-29 23:41:27,808 - ERROR - Error processing series [EgyFilm] frawla S01: 'last_update'
+2025-04-29 23:41:29,156 - INFO - Found 15 new episodes for [EgyFilm] bdwn sab2 anzar S01
+2025-04-29 23:41:47,682 - INFO - Successfully completed series: [EgyFilm] bdwn sab2 anzar S01
+2025-04-29 23:41:47,683 - ERROR - Error processing series [EgyFilm] bdwn sab2 anzar S01: 'last_update'
+2025-04-29 23:41:48,894 - INFO - Found 15 new episodes for [EgyFilm] b2yna atnyn S01
+2025-04-29 23:42:07,465 - INFO - Successfully completed series: [EgyFilm] b2yna atnyn S01
+2025-04-29 23:42:07,465 - ERROR - Error processing series [EgyFilm] b2yna atnyn S01: 'last_update'
+2025-04-29 23:42:08,801 - INFO - Found 15 new episodes for [EgyFilm] alf lyla wlyla: gwdr S01
+2025-04-29 23:42:27,600 - INFO - Successfully completed series: [EgyFilm] alf lyla wlyla: gwdr S01
+2025-04-29 23:42:27,601 - ERROR - Error processing series [EgyFilm] alf lyla wlyla: gwdr S01: 'last_update'
+2025-04-29 23:42:28,975 - INFO - Found 15 new episodes for [EgyFilm] mly7a S01
+2025-04-29 23:42:48,289 - INFO - Successfully completed series: [EgyFilm] mly7a S01
+2025-04-29 23:42:48,289 - ERROR - Error processing series [EgyFilm] mly7a S01: 'last_update'
+2025-04-29 23:42:49,574 - INFO - Found 15 new episodes for [EgyFilm] khald nwr wwldh nwr khald S01
+2025-04-29 23:43:09,225 - INFO - Successfully completed series: [EgyFilm] khald nwr wwldh nwr khald S01
+2025-04-29 23:43:09,225 - ERROR - Error processing series [EgyFilm] khald nwr wwldh nwr khald S01: 'last_update'
+2025-04-29 23:43:10,716 - INFO - Found 30 new episodes for [EgyFilm] byn l2swr S01
+2025-04-29 23:43:51,315 - INFO - Successfully completed series: [EgyFilm] byn l2swr S01
+2025-04-29 23:43:51,315 - ERROR - Error processing series [EgyFilm] byn l2swr S01: 'last_update'
+2025-04-29 23:43:52,608 - INFO - Found 30 new episodes for [EgyFilm] al7shashyn S01
+2025-04-29 23:44:31,486 - INFO - Successfully completed series: [EgyFilm] al7shashyn S01
+2025-04-29 23:44:31,486 - ERROR - Error processing series [EgyFilm] al7shashyn S01: 'last_update'
+2025-04-29 23:44:32,842 - INFO - Found 30 new episodes for [EgyFilm] alkbyr awy S08
+2025-04-29 23:45:12,077 - INFO - Successfully completed series: [EgyFilm] alkbyr awy S08
+2025-04-29 23:45:12,079 - ERROR - Error processing series [EgyFilm] alkbyr awy S08: 'last_update'
+2025-04-29 23:45:12,465 - INFO - Found 30 new episodes for [EgyFilm] al3tawla S01
+2025-04-29 23:45:51,885 - INFO - Successfully completed series: [EgyFilm] al3tawla S01
+2025-04-29 23:45:51,886 - ERROR - Error processing series [EgyFilm] al3tawla S01: 'last_update'
+2025-04-29 23:45:53,259 - INFO - Found 30 new episodes for [EgyFilm] byt alrfa3y S01
+2025-04-29 23:46:30,941 - INFO - Successfully completed series: [EgyFilm] byt alrfa3y S01
+2025-04-29 23:46:30,941 - ERROR - Error processing series [EgyFilm] byt alrfa3y S01: 'last_update'
+2025-04-29 23:46:32,373 - INFO - Found 30 new episodes for [EgyFilm] aghmd 3ynyk S01
+2025-04-29 23:46:56,044 - INFO - No new episodes found for [EgyFilm] brystyg S01
+2025-04-29 23:46:56,345 - INFO - No new episodes found for [EgyFilm] asr S01
+2025-04-29 23:46:56,627 - INFO - No new episodes found for [EgyFilm] 2l3 al7gr S02
+2025-04-29 23:46:56,915 - INFO - No new episodes found for [EgyFilm] bnat hmam S01
+2025-04-29 23:46:57,201 - INFO - No new episodes found for [EgyFilm] lam shmsya S01
+2025-04-29 23:46:57,512 - INFO - No new episodes found for [EgyFilm] shbab amraa S01
+2025-04-29 23:46:57,794 - INFO - No new episodes found for [EgyFilm] zlm almstba S01
+2025-04-29 23:46:58,086 - INFO - No new episodes found for [EgyFilm] alghawy S01
+2025-04-29 23:46:58,395 - INFO - No new episodes found for [EgyFilm] mnthy alsla7ya S01
+2025-04-29 23:46:58,677 - INFO - No new episodes found for [EgyFilm] 7sba 3mry S01
+2025-04-29 23:46:58,971 - INFO - No new episodes found for [EgyFilm] ns alsh3b asmh m7md S01
+2025-04-29 23:46:59,265 - INFO - No new episodes found for [EgyFilm] 2hwa alm7ta S01
+2025-04-29 23:46:59,558 - INFO - No new episodes found for [EgyFilm] 3aysha aldwr S01
+2025-04-29 23:46:59,852 - INFO - No new episodes found for [EgyFilm] r7ma S01
+2025-04-29 23:47:00,153 - INFO - No new episodes found for [EgyFilm] ywm ml2ak S01
+2025-04-29 23:47:00,442 - INFO - No new episodes found for [EgyFilm] llazkya2 f2t S01
+2025-04-29 23:47:00,736 - INFO - No new episodes found for [EgyFilm] alzafr S01
+2025-04-29 23:47:01,040 - INFO - No new episodes found for [EgyFilm] alshmysy S01
+2025-04-29 23:47:01,336 - INFO - No new episodes found for [EgyFilm] ahl alkhtaya S01
+2025-04-29 23:47:01,625 - INFO - No new episodes found for [EgyFilm] t7t alard S01
+2025-04-29 23:47:01,914 - INFO - No new episodes found for [EgyFilm] gwma S01
+2025-04-29 23:47:02,208 - INFO - No new episodes found for [EgyFilm] zhra 3mry S01
+2025-04-29 23:47:02,496 - INFO - No new episodes found for [EgyFilm] fy l7za S01
+2025-04-29 23:47:02,781 - INFO - No new episodes found for [EgyFilm] alamyra S01
+2025-04-29 23:47:03,068 - INFO - No new episodes found for [EgyFilm] m3awya S01
+2025-04-29 23:47:03,354 - INFO - No new episodes found for [EgyFilm] try2 albdaya S01
+2025-04-29 23:47:03,640 - INFO - No new episodes found for [EgyFilm] syd alnas S01
+2025-04-29 23:47:03,925 - INFO - No new episodes found for [EgyFilm] fhd albtl S01
+2025-04-29 23:47:04,203 - INFO - No new episodes found for [EgyFilm] 2lby wmfta7h S01
+2025-04-29 23:47:04,492 - INFO - No new episodes found for [EgyFilm] nfs S01
+2025-04-29 23:47:04,777 - INFO - No new episodes found for [EgyFilm] alf lyla wlyla: gwdr S02
+2025-04-29 23:47:05,063 - INFO - No new episodes found for [EgyFilm] shar3 ala3shy S01
+2025-04-29 23:47:05,354 - INFO - No new episodes found for [EgyFilm] am 44 S01
+2025-04-29 23:47:05,643 - INFO - No new episodes found for [EgyFilm] abn albasha S01
+2025-04-29 23:47:05,936 - INFO - No new episodes found for [EgyFilm] lyaly rwksy S01
+2025-04-29 23:47:06,218 - INFO - No new episodes found for [EgyFilm] gryma mntsf allyl S01
+2025-04-29 23:47:06,503 - INFO - No new episodes found for [EgyFilm] alns S01
+2025-04-29 23:47:06,798 - INFO - No new episodes found for [EgyFilm] 7kym basha S01
+2025-04-29 23:47:07,076 - INFO - No new episodes found for [EgyFilm] akhwaty S01
+2025-04-29 23:47:07,365 - INFO - No new episodes found for [EgyFilm] al7langy S01
+2025-04-29 23:47:07,650 - INFO - No new episodes found for [EgyFilm] al3tawla S02
+2025-04-29 23:47:07,928 - INFO - No new episodes found for [EgyFilm] 32bal 3ndkwa S01
+2025-04-29 23:47:08,211 - INFO - No new episodes found for [EgyFilm] wt2abl 7byb S01
+2025-04-29 23:47:08,499 - INFO - No new episodes found for [EgyFilm] athyna S01
+2025-04-29 23:47:08,788 - INFO - No new episodes found for [EgyFilm] ash ash S01
+2025-04-29 23:47:09,074 - INFO - No new episodes found for [EgyFilm] t7t sab3 ard S01
+2025-04-29 23:47:09,361 - INFO - No new episodes found for [EgyFilm] byt 7mwla S01
+2025-04-29 23:47:09,653 - INFO - No new episodes found for [EgyFilm] albtl S01
+2025-04-29 23:47:09,944 - INFO - No new episodes found for [EgyFilm] baldm S01
+2025-04-29 23:47:10,232 - INFO - No new episodes found for [EgyFilm] 80 bakw S01
+2025-04-29 23:47:10,523 - INFO - No new episodes found for [EgyFilm] shhada m3amla atfal S01
+2025-04-29 23:47:10,807 - INFO - No new episodes found for [EgyFilm] ashghal sh2a gda S02
+2025-04-29 23:47:11,090 - INFO - No new episodes found for [EgyFilm] wlad alshms S01
+2025-04-29 23:47:11,374 - INFO - No new episodes found for [EgyFilm] alkabtn S01
+2025-04-29 23:47:11,663 - INFO - No new episodes found for [EgyFilm] almda7 S05
+2025-04-29 23:47:11,955 - INFO - No new episodes found for [EgyFilm] kaml al3dd S03
+2025-04-29 23:47:12,239 - INFO - No new episodes found for [EgyFilm] alshrn2a S01
+2025-04-29 23:47:12,526 - INFO - No new episodes found for [EgyFilm] rw7 gdw S01
+2025-04-29 23:47:12,811 - INFO - No new episodes found for [EgyFilm] sf7a byda S01
+2025-04-29 23:47:13,109 - INFO - No new episodes found for [EgyFilm] trad S01
+2025-04-29 23:47:13,392 - INFO - No new episodes found for [EgyFilm] a2ama gbrya S01
+2025-04-29 23:47:13,674 - INFO - No new episodes found for [EgyFilm] srab S01
+2025-04-29 23:47:13,955 - INFO - No new episodes found for [EgyFilm] albth S01
+2025-04-29 23:47:14,235 - INFO - No new episodes found for [EgyFilm] mwdw3 3a2ly S03
+2025-04-29 23:47:14,526 - INFO - No new episodes found for [EgyFilm] al2dr S01
+2025-04-29 23:47:14,806 - INFO - No new episodes found for [EgyFilm] f2ra alsa7r S01
+2025-04-29 23:47:15,090 - INFO - No new episodes found for [EgyFilm] almhrg S01
+2025-04-29 23:47:15,373 - INFO - No new episodes found for [EgyFilm] mw3d m3 almady S01
+2025-04-29 23:47:15,665 - INFO - No new episodes found for [EgyFilm] sa3th wtarykhh S01
+2025-04-29 23:47:15,957 - INFO - No new episodes found for [EgyFilm] n2ta swda S01
+2025-04-29 23:47:16,531 - INFO - No new episodes found for [EgyFilm] r2m sry S01
+2025-04-29 23:47:16,815 - INFO - No new episodes found for [EgyFilm] bnat althanwy S02
+2025-04-29 23:47:17,103 - INFO - No new episodes found for [EgyFilm] wtr 7sas S01
+2025-04-29 23:47:17,381 - INFO - No new episodes found for [EgyFilm] baswrd S01
+2025-04-29 23:47:17,660 - INFO - No new episodes found for [EgyFilm] ٦ shhwr S01
+2025-04-29 23:47:17,980 - INFO - No new episodes found for [EgyFilm] mt3m al7bayb S01
+2025-04-29 23:47:18,262 - INFO - No new episodes found for [EgyFilm] alb7th 3n 3la S02
+2025-04-29 23:47:18,544 - INFO - No new episodes found for [EgyFilm] tyta zwzw S01
+2025-04-29 23:47:18,833 - INFO - No new episodes found for [EgyFilm] brghm al2anwn S01
+2025-04-29 23:47:19,121 - INFO - No new episodes found for [EgyFilm] dybw S01
+2025-04-29 23:47:19,401 - INFO - No new episodes found for [EgyFilm] antrfyw S01
+2025-04-29 23:47:19,692 - INFO - No new episodes found for [EgyFilm] f3l mady S01
+2025-04-29 23:47:19,972 - INFO - No new episodes found for [EgyFilm] 3mr afndy S01
+2025-04-29 23:47:20,257 - INFO - No new episodes found for [EgyFilm] albyt alml3wn S01
+2025-04-29 23:47:20,538 - INFO - No new episodes found for [EgyFilm] bnwn S01
+2025-04-29 23:47:20,817 - INFO - No new episodes found for [EgyFilm] 7rb nfsya S01
+2025-04-29 23:47:21,102 - INFO - No new episodes found for [EgyFilm] alwsfa als7rya S01
+2025-04-29 23:47:21,378 - INFO - No new episodes found for [EgyFilm] am aldnya S02
+2025-04-29 23:47:21,676 - INFO - No new episodes found for [EgyFilm] w3d S01
+2025-04-29 23:47:21,965 - INFO - No new episodes found for [EgyFilm] mftr2 tr2 S01
+2025-04-29 23:47:22,249 - INFO - No new episodes found for [EgyFilm] wly al3hd S01
+2025-04-29 23:47:22,532 - INFO - No new episodes found for [EgyFilm] alnsyan S01
+2025-04-29 23:47:22,812 - INFO - No new episodes found for [EgyFilm] dwa3y alsfr S01
+2025-04-29 23:47:23,095 - INFO - No new episodes found for [EgyFilm] wld alghlaba S01
+2025-04-29 23:47:23,374 - INFO - No new episodes found for [EgyFilm] ala altla2 S01
+2025-04-29 23:47:23,653 - INFO - No new episodes found for [EgyFilm] albyt byty S02
+2025-04-29 23:47:23,942 - INFO - No new episodes found for [EgyFilm] mwga 7ara S01
+2025-04-29 23:47:24,238 - INFO - No new episodes found for [EgyFilm] l3ba 7b S01
+2025-04-29 23:47:24,521 - INFO - No new episodes found for [EgyFilm] snds S02
+2025-04-29 23:47:24,800 - INFO - No new episodes found for [EgyFilm] kwbra S01
+2025-04-29 23:47:25,130 - INFO - No new episodes found for [EgyFilm] 3shryn arb3a w3shryn S02
+2025-04-29 23:47:25,409 - INFO - No new episodes found for [EgyFilm] r7yl S01
+2025-04-29 23:47:25,741 - INFO - No new episodes found for [EgyFilm] frawla S01
+2025-04-29 23:47:26,038 - INFO - No new episodes found for [EgyFilm] bdwn sab2 anzar S01
+2025-04-29 23:47:26,375 - INFO - No new episodes found for [EgyFilm] b2yna atnyn S01
+2025-04-29 23:47:26,686 - INFO - No new episodes found for [EgyFilm] alf lyla wlyla: gwdr S01
+2025-04-29 23:47:27,002 - INFO - No new episodes found for [EgyFilm] mly7a S01
+2025-04-29 23:47:27,330 - INFO - No new episodes found for [EgyFilm] khald nwr wwldh nwr khald S01
+2025-04-29 23:47:27,679 - INFO - No new episodes found for [EgyFilm] byn l2swr S01
+2025-04-29 23:47:28,023 - INFO - No new episodes found for [EgyFilm] al7shashyn S01
+2025-04-29 23:47:28,371 - INFO - No new episodes found for [EgyFilm] alkbyr awy S08
+2025-04-29 23:47:28,706 - INFO - No new episodes found for [EgyFilm] al3tawla S01
+2025-04-29 23:47:29,048 - INFO - No new episodes found for [EgyFilm] byt alrfa3y S01
+2025-04-29 23:47:29,397 - INFO - Found 23 new episodes for [EgyFilm] aghmd 3ynyk S01
+2025-04-29 23:47:57,896 - INFO - Successfully completed series: [EgyFilm] aghmd 3ynyk S01
+2025-04-29 23:47:58,183 - INFO - Found 30 new episodes for [EgyFilm] gry alw7wsh S01
+2025-04-29 23:48:36,654 - INFO - Successfully completed series: [EgyFilm] gry alw7wsh S01
+2025-04-29 23:48:38,075 - INFO - Found 30 new episodes for [EgyFilm] tag S01
+2025-04-29 23:49:15,809 - INFO - Successfully completed series: [EgyFilm] tag S01
+2025-04-29 23:49:17,284 - INFO - Found 30 new episodes for [EgyFilm] m7arb S01
+2025-04-29 23:49:54,493 - INFO - Successfully completed series: [EgyFilm] m7arb S01
+2025-04-29 23:49:55,906 - INFO - Found 30 new episodes for [EgyFilm] mal al2ban S01
+2025-04-29 23:50:32,526 - INFO - Successfully completed series: [EgyFilm] mal al2ban S01
+2025-04-29 23:50:33,974 - INFO - Found 30 new episodes for [EgyFilm] zwga wa7da la tkfy S01
+2025-04-29 23:51:10,770 - INFO - Successfully completed series: [EgyFilm] zwga wa7da la tkfy S01
+2025-04-29 23:51:12,150 - INFO - Found 30 new episodes for [EgyFilm] alm3lm S01
+2025-04-29 23:51:49,173 - INFO - Successfully completed series: [EgyFilm] alm3lm S01
+2025-04-29 23:51:50,529 - INFO - Found 30 new episodes for [EgyFilm] 72 3rb S01
+2025-04-29 23:52:29,642 - INFO - Successfully completed series: [EgyFilm] 72 3rb S01
+2025-04-29 23:52:31,018 - INFO - Found 30 new episodes for [EgyFilm] b100 ragl S01
+2025-04-29 23:53:08,608 - INFO - Successfully completed series: [EgyFilm] b100 ragl S01
+2025-04-29 23:53:09,798 - INFO - Found 30 new episodes for [EgyFilm] 2l3 al7gr S01
+2025-04-29 23:53:48,569 - INFO - Successfully completed series: [EgyFilm] 2l3 al7gr S01
+2025-04-29 23:53:48,854 - INFO - Found 15 new episodes for [EgyFilm] baba gh S01
+2025-04-29 23:54:08,477 - INFO - Successfully completed series: [EgyFilm] baba gh S01
+2025-04-29 23:54:09,896 - INFO - Found 30 new episodes for [EgyFilm] syd al32arb S01
+2025-04-29 23:54:47,810 - INFO - Successfully completed series: [EgyFilm] syd al32arb S01
+2025-04-29 23:54:49,165 - INFO - Found 15 new episodes for [EgyFilm] 3tbat albhga S01
+2025-04-29 23:55:08,111 - INFO - Successfully completed series: [EgyFilm] 3tbat albhga S01
+2025-04-29 23:55:09,475 - INFO - Found 15 new episodes for [EgyFilm] msar agbary S01
+2025-04-29 23:55:27,499 - INFO - Successfully completed series: [EgyFilm] msar agbary S01
+2025-04-29 23:55:28,732 - INFO - Found 15 new episodes for [EgyFilm] sr alhy S01
+2025-04-29 23:55:46,779 - INFO - Successfully completed series: [EgyFilm] sr alhy S01
+2025-04-29 23:55:48,331 - INFO - Found 30 new episodes for [EgyFilm] ambratwrya m S01
+2025-04-29 23:56:46,205 - INFO - Successfully completed series: [EgyFilm] ambratwrya m S01
+2025-04-29 23:56:47,491 - INFO - Found 30 new episodes for [EgyFilm] sdfa S01
+2025-04-29 23:57:09,859 - INFO - No new episodes found for [EgyFilm] brystyg S01
+2025-04-29 23:57:10,137 - INFO - No new episodes found for [EgyFilm] asr S01
+2025-04-29 23:57:10,423 - INFO - No new episodes found for [EgyFilm] 2l3 al7gr S02
+2025-04-29 23:57:10,688 - INFO - No new episodes found for [EgyFilm] bnat hmam S01
+2025-04-29 23:57:10,992 - INFO - No new episodes found for [EgyFilm] lam shmsya S01
+2025-04-29 23:57:11,270 - INFO - No new episodes found for [EgyFilm] shbab amraa S01
+2025-04-29 23:57:11,548 - INFO - No new episodes found for [EgyFilm] zlm almstba S01
+2025-04-29 23:57:11,822 - INFO - No new episodes found for [EgyFilm] alghawy S01
+2025-04-29 23:57:12,103 - INFO - No new episodes found for [EgyFilm] mnthy alsla7ya S01
+2025-04-29 23:57:12,389 - INFO - No new episodes found for [EgyFilm] 7sba 3mry S01
+2025-04-29 23:57:12,660 - INFO - No new episodes found for [EgyFilm] ns alsh3b asmh m7md S01
+2025-04-29 23:57:12,939 - INFO - No new episodes found for [EgyFilm] 2hwa alm7ta S01
+2025-04-29 23:57:13,206 - INFO - No new episodes found for [EgyFilm] 3aysha aldwr S01
+2025-04-29 23:57:13,499 - INFO - No new episodes found for [EgyFilm] r7ma S01
+2025-04-29 23:57:13,773 - INFO - No new episodes found for [EgyFilm] ywm ml2ak S01
+2025-04-29 23:57:14,048 - INFO - No new episodes found for [EgyFilm] llazkya2 f2t S01
+2025-04-29 23:57:14,355 - INFO - No new episodes found for [EgyFilm] alzafr S01
+2025-04-29 23:57:14,643 - INFO - No new episodes found for [EgyFilm] alshmysy S01
+2025-04-29 23:57:14,924 - INFO - No new episodes found for [EgyFilm] ahl alkhtaya S01
+2025-04-29 23:57:15,211 - INFO - No new episodes found for [EgyFilm] t7t alard S01
+2025-04-29 23:57:15,490 - INFO - No new episodes found for [EgyFilm] gwma S01
+2025-04-29 23:57:15,773 - INFO - No new episodes found for [EgyFilm] zhra 3mry S01
+2025-04-29 23:57:16,041 - INFO - No new episodes found for [EgyFilm] fy l7za S01
+2025-04-29 23:57:16,322 - INFO - No new episodes found for [EgyFilm] alamyra S01
+2025-04-29 23:57:16,607 - INFO - No new episodes found for [EgyFilm] m3awya S01
+2025-04-29 23:57:16,875 - INFO - No new episodes found for [EgyFilm] try2 albdaya S01
+2025-04-29 23:57:17,157 - INFO - No new episodes found for [EgyFilm] syd alnas S01
+2025-04-29 23:57:17,440 - INFO - No new episodes found for [EgyFilm] fhd albtl S01
+2025-04-29 23:57:17,724 - INFO - No new episodes found for [EgyFilm] 2lby wmfta7h S01
+2025-04-29 23:57:17,991 - INFO - No new episodes found for [EgyFilm] nfs S01
+2025-04-29 23:57:18,267 - INFO - No new episodes found for [EgyFilm] alf lyla wlyla: gwdr S02
+2025-04-29 23:57:18,559 - INFO - No new episodes found for [EgyFilm] shar3 ala3shy S01
+2025-04-29 23:57:18,832 - INFO - No new episodes found for [EgyFilm] am 44 S01
+2025-04-29 23:57:19,109 - INFO - No new episodes found for [EgyFilm] abn albasha S01
+2025-04-29 23:57:19,381 - INFO - No new episodes found for [EgyFilm] lyaly rwksy S01
+2025-04-29 23:57:19,659 - INFO - No new episodes found for [EgyFilm] gryma mntsf allyl S01
+2025-04-29 23:57:19,946 - INFO - No new episodes found for [EgyFilm] alns S01
+2025-04-29 23:57:20,225 - INFO - No new episodes found for [EgyFilm] 7kym basha S01
+2025-04-29 23:57:20,496 - INFO - No new episodes found for [EgyFilm] akhwaty S01
+2025-04-29 23:57:20,775 - INFO - No new episodes found for [EgyFilm] al7langy S01
+2025-04-29 23:57:21,059 - INFO - No new episodes found for [EgyFilm] al3tawla S02
+2025-04-29 23:57:21,341 - INFO - No new episodes found for [EgyFilm] 32bal 3ndkwa S01
+2025-04-29 23:57:21,640 - INFO - No new episodes found for [EgyFilm] wt2abl 7byb S01
+2025-04-29 23:57:21,925 - INFO - No new episodes found for [EgyFilm] athyna S01
+2025-04-29 23:57:22,204 - INFO - No new episodes found for [EgyFilm] ash ash S01
+2025-04-29 23:57:22,496 - INFO - No new episodes found for [EgyFilm] t7t sab3 ard S01
+2025-04-29 23:57:22,766 - INFO - No new episodes found for [EgyFilm] byt 7mwla S01
+2025-04-29 23:57:23,053 - INFO - No new episodes found for [EgyFilm] albtl S01
+2025-04-29 23:57:23,326 - INFO - No new episodes found for [EgyFilm] baldm S01
+2025-04-29 23:57:23,600 - INFO - No new episodes found for [EgyFilm] 80 bakw S01
+2025-04-29 23:57:23,876 - INFO - No new episodes found for [EgyFilm] shhada m3amla atfal S01
+2025-04-29 23:57:24,149 - INFO - No new episodes found for [EgyFilm] ashghal sh2a gda S02
+2025-04-29 23:57:24,427 - INFO - No new episodes found for [EgyFilm] wlad alshms S01
+2025-04-29 23:57:24,698 - INFO - No new episodes found for [EgyFilm] alkabtn S01
+2025-04-29 23:57:24,977 - INFO - No new episodes found for [EgyFilm] almda7 S05
+2025-04-29 23:57:25,262 - INFO - No new episodes found for [EgyFilm] kaml al3dd S03
+2025-04-29 23:57:25,527 - INFO - No new episodes found for [EgyFilm] alshrn2a S01
+2025-04-29 23:57:25,813 - INFO - No new episodes found for [EgyFilm] rw7 gdw S01
+2025-04-29 23:57:26,093 - INFO - No new episodes found for [EgyFilm] sf7a byda S01
+2025-04-29 23:57:26,378 - INFO - No new episodes found for [EgyFilm] trad S01
+2025-04-29 23:57:26,661 - INFO - No new episodes found for [EgyFilm] a2ama gbrya S01
+2025-04-29 23:57:26,926 - INFO - No new episodes found for [EgyFilm] srab S01
+2025-04-29 23:57:27,209 - INFO - No new episodes found for [EgyFilm] albth S01
+2025-04-29 23:57:27,478 - INFO - No new episodes found for [EgyFilm] mwdw3 3a2ly S03
+2025-04-29 23:57:27,761 - INFO - No new episodes found for [EgyFilm] al2dr S01
+2025-04-29 23:57:28,045 - INFO - No new episodes found for [EgyFilm] f2ra alsa7r S01
+2025-04-29 23:57:28,312 - INFO - No new episodes found for [EgyFilm] almhrg S01
+2025-04-29 23:57:28,595 - INFO - No new episodes found for [EgyFilm] mw3d m3 almady S01
+2025-04-29 23:57:28,871 - INFO - No new episodes found for [EgyFilm] sa3th wtarykhh S01
+2025-04-29 23:57:29,162 - INFO - No new episodes found for [EgyFilm] n2ta swda S01
+2025-04-29 23:57:29,452 - INFO - No new episodes found for [EgyFilm] r2m sry S01
+2025-04-29 23:57:29,744 - INFO - No new episodes found for [EgyFilm] bnat althanwy S02
+2025-04-29 23:57:30,034 - INFO - No new episodes found for [EgyFilm] wtr 7sas S01
+2025-04-29 23:57:30,296 - INFO - No new episodes found for [EgyFilm] baswrd S01
+2025-04-29 23:57:30,565 - INFO - No new episodes found for [EgyFilm] ٦ shhwr S01
+2025-04-29 23:57:30,847 - INFO - No new episodes found for [EgyFilm] mt3m al7bayb S01
+2025-04-29 23:57:31,130 - INFO - No new episodes found for [EgyFilm] alb7th 3n 3la S02
+2025-04-29 23:57:31,412 - INFO - No new episodes found for [EgyFilm] tyta zwzw S01
+2025-04-29 23:57:31,678 - INFO - No new episodes found for [EgyFilm] brghm al2anwn S01
+2025-04-29 23:57:31,964 - INFO - No new episodes found for [EgyFilm] dybw S01
+2025-04-29 23:57:32,230 - INFO - No new episodes found for [EgyFilm] antrfyw S01
+2025-04-29 23:57:32,514 - INFO - No new episodes found for [EgyFilm] f3l mady S01
+2025-04-29 23:57:32,780 - INFO - No new episodes found for [EgyFilm] 3mr afndy S01
+2025-04-29 23:57:33,064 - INFO - No new episodes found for [EgyFilm] albyt alml3wn S01
+2025-04-29 23:57:33,346 - INFO - No new episodes found for [EgyFilm] bnwn S01
+2025-04-29 23:57:33,615 - INFO - No new episodes found for [EgyFilm] 7rb nfsya S01
+2025-04-29 23:57:33,896 - INFO - No new episodes found for [EgyFilm] alwsfa als7rya S01
+2025-04-29 23:57:34,173 - INFO - No new episodes found for [EgyFilm] am aldnya S02
+2025-04-29 23:57:34,448 - INFO - No new episodes found for [EgyFilm] w3d S01
+2025-04-29 23:57:34,738 - INFO - No new episodes found for [EgyFilm] mftr2 tr2 S01
+2025-04-29 23:57:35,013 - INFO - No new episodes found for [EgyFilm] wly al3hd S01
+2025-04-29 23:57:35,286 - INFO - No new episodes found for [EgyFilm] alnsyan S01
+2025-04-29 23:57:35,565 - INFO - No new episodes found for [EgyFilm] dwa3y alsfr S01
+2025-04-29 23:57:35,851 - INFO - No new episodes found for [EgyFilm] wld alghlaba S01
+2025-04-29 23:57:36,131 - INFO - No new episodes found for [EgyFilm] ala altla2 S01
+2025-04-29 23:57:36,402 - INFO - No new episodes found for [EgyFilm] albyt byty S02
+2025-04-29 23:57:36,681 - INFO - No new episodes found for [EgyFilm] mwga 7ara S01
+2025-04-29 23:57:36,966 - INFO - No new episodes found for [EgyFilm] l3ba 7b S01
+2025-04-29 23:57:37,249 - INFO - No new episodes found for [EgyFilm] snds S02
+2025-04-29 23:57:37,514 - INFO - No new episodes found for [EgyFilm] kwbra S01
+2025-04-29 23:57:37,799 - INFO - No new episodes found for [EgyFilm] 3shryn arb3a w3shryn S02
+2025-04-29 23:57:38,081 - INFO - No new episodes found for [EgyFilm] r7yl S01
+2025-04-29 23:57:38,364 - INFO - No new episodes found for [EgyFilm] frawla S01
+2025-04-29 23:57:38,632 - INFO - No new episodes found for [EgyFilm] bdwn sab2 anzar S01
+2025-04-29 23:57:38,917 - INFO - No new episodes found for [EgyFilm] b2yna atnyn S01
+2025-04-29 23:57:39,183 - INFO - No new episodes found for [EgyFilm] alf lyla wlyla: gwdr S01
+2025-04-29 23:57:39,467 - INFO - No new episodes found for [EgyFilm] mly7a S01
+2025-04-29 23:57:39,734 - INFO - No new episodes found for [EgyFilm] khald nwr wwldh nwr khald S01
+2025-04-29 23:57:40,009 - INFO - No new episodes found for [EgyFilm] byn l2swr S01
+2025-04-29 23:57:40,299 - INFO - No new episodes found for [EgyFilm] al7shashyn S01
+2025-04-29 23:57:40,572 - INFO - No new episodes found for [EgyFilm] alkbyr awy S08
+2025-04-29 23:57:40,895 - INFO - No new episodes found for [EgyFilm] al3tawla S01
+2025-04-29 23:57:41,170 - INFO - No new episodes found for [EgyFilm] byt alrfa3y S01
+2025-04-29 23:57:41,464 - INFO - No new episodes found for [EgyFilm] aghmd 3ynyk S01
+2025-04-29 23:57:41,735 - INFO - No new episodes found for [EgyFilm] gry alw7wsh S01
+2025-04-29 23:57:42,028 - INFO - No new episodes found for [EgyFilm] tag S01
+2025-04-29 23:57:42,307 - INFO - No new episodes found for [EgyFilm] m7arb S01
+2025-04-29 23:57:42,599 - INFO - No new episodes found for [EgyFilm] mal al2ban S01
+2025-04-29 23:57:42,891 - INFO - No new episodes found for [EgyFilm] zwga wa7da la tkfy S01
+2025-04-29 23:57:43,169 - INFO - No new episodes found for [EgyFilm] alm3lm S01
+2025-04-29 23:57:43,435 - INFO - No new episodes found for [EgyFilm] 72 3rb S01
+2025-04-29 23:57:43,725 - INFO - No new episodes found for [EgyFilm] b100 ragl S01
+2025-04-29 23:57:44,000 - INFO - No new episodes found for [EgyFilm] 2l3 al7gr S01
+2025-04-29 23:57:44,290 - INFO - No new episodes found for [EgyFilm] baba gh S01
+2025-04-29 23:57:44,567 - INFO - No new episodes found for [EgyFilm] syd al32arb S01
+2025-04-29 23:57:44,840 - INFO - No new episodes found for [EgyFilm] 3tbat albhga S01
+2025-04-29 23:57:45,119 - INFO - No new episodes found for [EgyFilm] msar agbary S01
+2025-04-29 23:57:45,391 - INFO - No new episodes found for [EgyFilm] sr alhy S01
+2025-04-29 23:57:45,685 - INFO - No new episodes found for [EgyFilm] ambratwrya m S01
+2025-04-29 23:57:45,985 - INFO - Found 30 new episodes for [EgyFilm] sdfa S01
+2025-04-29 23:58:26,594 - INFO - Successfully completed series: [EgyFilm] sdfa S01
+2025-04-29 23:58:26,884 - INFO - Found 16 new episodes for [EgyFilm] n3ma alafwkatw S01
+2025-04-29 23:58:52,954 - INFO - Successfully completed series: [EgyFilm] n3ma alafwkatw S01
+2025-04-29 23:58:54,105 - INFO - Found 15 new episodes for [EgyFilm] kaml al3dd S02
+2025-04-29 23:59:21,581 - INFO - Successfully completed series: [EgyFilm] kaml al3dd S02
+2025-04-29 23:59:22,883 - INFO - Found 30 new episodes for [EgyFilm] mlfat mnsya S01
+2025-04-30 00:08:04,895 - ERROR - Error loading series list: [Errno 2] No such file or directory: 'c:\\Users\\Mohamed Tamer\\Desktop\\EgyFullPack\\data\\cimanow\\ar-series\\ar-series.json'
+2025-04-30 00:11:14,221 - INFO - No new episodes found for [EgyFilm] brystyg S01
+2025-04-30 00:11:14,487 - INFO - No new episodes found for [EgyFilm] asr S01
+2025-04-30 00:11:14,780 - INFO - No new episodes found for [EgyFilm] 2l3 al7gr S02
+2025-04-30 00:11:15,056 - INFO - No new episodes found for [EgyFilm] bnat hmam S01
+2025-04-30 00:11:15,328 - INFO - No new episodes found for [EgyFilm] lam shmsya S01
+2025-04-30 00:11:15,609 - INFO - No new episodes found for [EgyFilm] shbab amraa S01
+2025-04-30 00:11:15,922 - INFO - No new episodes found for [EgyFilm] zlm almstba S01
+2025-04-30 00:11:16,188 - INFO - No new episodes found for [EgyFilm] alghawy S01
+2025-04-30 00:11:16,485 - INFO - No new episodes found for [EgyFilm] mnthy alsla7ya S01
+2025-04-30 00:11:16,766 - INFO - No new episodes found for [EgyFilm] 7sba 3mry S01
+2025-04-30 00:11:17,039 - INFO - No new episodes found for [EgyFilm] ns alsh3b asmh m7md S01
+2025-04-30 00:11:17,306 - INFO - No new episodes found for [EgyFilm] 2hwa alm7ta S01
+2025-04-30 00:11:17,594 - INFO - No new episodes found for [EgyFilm] 3aysha aldwr S01
+2025-04-30 00:11:17,880 - INFO - No new episodes found for [EgyFilm] r7ma S01
+2025-04-30 00:11:18,155 - INFO - No new episodes found for [EgyFilm] ywm ml2ak S01
+2025-04-30 00:11:18,456 - INFO - No new episodes found for [EgyFilm] llazkya2 f2t S01
+2025-04-30 00:11:18,740 - INFO - No new episodes found for [EgyFilm] alzafr S01
+2025-04-30 00:11:19,039 - INFO - No new episodes found for [EgyFilm] alshmysy S01
+2025-04-30 00:11:19,323 - INFO - No new episodes found for [EgyFilm] ahl alkhtaya S01
+2025-04-30 00:11:19,596 - INFO - No new episodes found for [EgyFilm] t7t alard S01
+2025-04-30 00:11:19,862 - INFO - No new episodes found for [EgyFilm] gwma S01
+2025-04-30 00:11:20,157 - INFO - No new episodes found for [EgyFilm] zhra 3mry S01
+2025-04-30 00:11:20,452 - INFO - No new episodes found for [EgyFilm] fy l7za S01
+2025-04-30 00:11:20,726 - INFO - No new episodes found for [EgyFilm] alamyra S01
+2025-04-30 00:11:21,015 - INFO - No new episodes found for [EgyFilm] m3awya S01
+2025-04-30 00:11:21,292 - INFO - No new episodes found for [EgyFilm] try2 albdaya S01
+2025-04-30 00:11:21,555 - INFO - No new episodes found for [EgyFilm] syd alnas S01
+2025-04-30 00:11:21,835 - INFO - No new episodes found for [EgyFilm] fhd albtl S01
+2025-04-30 00:11:22,113 - INFO - No new episodes found for [EgyFilm] 2lby wmfta7h S01
+2025-04-30 00:11:22,397 - INFO - No new episodes found for [EgyFilm] nfs S01
+2025-04-30 00:11:22,676 - INFO - No new episodes found for [EgyFilm] alf lyla wlyla: gwdr S02
+2025-04-30 00:11:22,939 - INFO - No new episodes found for [EgyFilm] shar3 ala3shy S01
+2025-04-30 00:11:23,224 - INFO - No new episodes found for [EgyFilm] am 44 S01
+2025-04-30 00:11:23,500 - INFO - No new episodes found for [EgyFilm] abn albasha S01
+2025-04-30 00:11:23,788 - INFO - No new episodes found for [EgyFilm] lyaly rwksy S01
+2025-04-30 00:11:24,064 - INFO - No new episodes found for [EgyFilm] gryma mntsf allyl S01
+2025-04-30 00:11:24,347 - INFO - No new episodes found for [EgyFilm] alns S01
+2025-04-30 00:11:24,624 - INFO - No new episodes found for [EgyFilm] 7kym basha S01
+2025-04-30 00:11:24,894 - INFO - No new episodes found for [EgyFilm] akhwaty S01
+2025-04-30 00:11:25,193 - INFO - No new episodes found for [EgyFilm] al7langy S01
+2025-04-30 00:11:25,466 - INFO - No new episodes found for [EgyFilm] al3tawla S02
+2025-04-30 00:11:25,749 - INFO - No new episodes found for [EgyFilm] 32bal 3ndkwa S01
+2025-04-30 00:11:26,039 - INFO - No new episodes found for [EgyFilm] wt2abl 7byb S01
+2025-04-30 00:11:26,309 - INFO - No new episodes found for [EgyFilm] athyna S01
+2025-04-30 00:11:26,595 - INFO - No new episodes found for [EgyFilm] ash ash S01
+2025-04-30 00:11:26,877 - INFO - No new episodes found for [EgyFilm] t7t sab3 ard S01
+2025-04-30 00:11:27,159 - INFO - No new episodes found for [EgyFilm] byt 7mwla S01
+2025-04-30 00:11:27,443 - INFO - No new episodes found for [EgyFilm] albtl S01
+2025-04-30 00:11:27,727 - INFO - No new episodes found for [EgyFilm] baldm S01
+2025-04-30 00:11:28,002 - INFO - No new episodes found for [EgyFilm] 80 bakw S01
+2025-04-30 00:11:28,282 - INFO - No new episodes found for [EgyFilm] shhada m3amla atfal S01
+2025-04-30 00:11:28,579 - INFO - No new episodes found for [EgyFilm] ashghal sh2a gda S02
+2025-04-30 00:11:28,844 - INFO - No new episodes found for [EgyFilm] wlad alshms S01
+2025-04-30 00:11:29,127 - INFO - No new episodes found for [EgyFilm] alkabtn S01
+2025-04-30 00:11:29,410 - INFO - No new episodes found for [EgyFilm] almda7 S05
+2025-04-30 00:11:29,688 - INFO - No new episodes found for [EgyFilm] kaml al3dd S03
+2025-04-30 00:11:29,960 - INFO - No new episodes found for [EgyFilm] alshrn2a S01
+2025-04-30 00:11:30,233 - INFO - No new episodes found for [EgyFilm] rw7 gdw S01
+2025-04-30 00:11:30,515 - INFO - No new episodes found for [EgyFilm] sf7a byda S01
+2025-04-30 00:11:30,800 - INFO - No new episodes found for [EgyFilm] trad S01
+2025-04-30 00:11:31,083 - INFO - No new episodes found for [EgyFilm] a2ama gbrya S01
+2025-04-30 00:11:31,370 - INFO - No new episodes found for [EgyFilm] srab S01
+2025-04-30 00:11:31,634 - INFO - No new episodes found for [EgyFilm] albth S01
+2025-04-30 00:11:31,917 - INFO - No new episodes found for [EgyFilm] mwdw3 3a2ly S03
+2025-04-30 00:11:32,204 - INFO - No new episodes found for [EgyFilm] al2dr S01
+2025-04-30 00:11:32,477 - INFO - No new episodes found for [EgyFilm] f2ra alsa7r S01
+2025-04-30 00:11:32,762 - INFO - No new episodes found for [EgyFilm] almhrg S01
+2025-04-30 00:11:33,040 - INFO - No new episodes found for [EgyFilm] mw3d m3 almady S01
+2025-04-30 00:11:33,328 - INFO - No new episodes found for [EgyFilm] sa3th wtarykhh S01
+2025-04-30 00:11:33,611 - INFO - No new episodes found for [EgyFilm] n2ta swda S01
+2025-04-30 00:11:33,879 - INFO - No new episodes found for [EgyFilm] r2m sry S01
+2025-04-30 00:11:34,162 - INFO - No new episodes found for [EgyFilm] bnat althanwy S02
+2025-04-30 00:11:34,445 - INFO - No new episodes found for [EgyFilm] wtr 7sas S01
+2025-04-30 00:11:34,729 - INFO - No new episodes found for [EgyFilm] baswrd S01
+2025-04-30 00:11:35,006 - INFO - No new episodes found for [EgyFilm] ٦ shhwr S01
+2025-04-30 00:11:35,270 - INFO - No new episodes found for [EgyFilm] mt3m al7bayb S01
+2025-04-30 00:11:35,595 - INFO - No new episodes found for [EgyFilm] alb7th 3n 3la S02
+2025-04-30 00:11:35,881 - INFO - No new episodes found for [EgyFilm] tyta zwzw S01
+2025-04-30 00:11:36,183 - INFO - No new episodes found for [EgyFilm] brghm al2anwn S01
+2025-04-30 00:11:36,526 - INFO - No new episodes found for [EgyFilm] dybw S01
+2025-04-30 00:11:36,866 - INFO - No new episodes found for [EgyFilm] antrfyw S01
+2025-04-30 00:11:37,168 - INFO - No new episodes found for [EgyFilm] f3l mady S01
+2025-04-30 00:11:37,531 - INFO - No new episodes found for [EgyFilm] 3mr afndy S01
+2025-04-30 00:11:37,822 - INFO - No new episodes found for [EgyFilm] albyt alml3wn S01
+2025-04-30 00:11:38,164 - INFO - No new episodes found for [EgyFilm] bnwn S01
+2025-04-30 00:11:38,468 - INFO - No new episodes found for [EgyFilm] 7rb nfsya S01
+2025-04-30 00:11:38,769 - INFO - No new episodes found for [EgyFilm] alwsfa als7rya S01
+2025-04-30 00:11:39,115 - INFO - No new episodes found for [EgyFilm] am aldnya S02
+2025-04-30 00:11:39,469 - INFO - No new episodes found for [EgyFilm] w3d S01
+2025-04-30 00:11:39,800 - INFO - No new episodes found for [EgyFilm] mftr2 tr2 S01
+2025-04-30 00:11:40,071 - INFO - No new episodes found for [EgyFilm] wly al3hd S01
+2025-04-30 00:11:40,396 - INFO - No new episodes found for [EgyFilm] alnsyan S01
+2025-04-30 00:11:40,672 - INFO - No new episodes found for [EgyFilm] dwa3y alsfr S01
+2025-04-30 00:11:40,953 - INFO - No new episodes found for [EgyFilm] wld alghlaba S01
+2025-04-30 00:11:41,238 - INFO - No new episodes found for [EgyFilm] ala altla2 S01
+2025-04-30 00:11:41,505 - INFO - No new episodes found for [EgyFilm] albyt byty S02
+2025-04-30 00:11:41,786 - INFO - No new episodes found for [EgyFilm] mwga 7ara S01
+2025-04-30 00:11:42,070 - INFO - No new episodes found for [EgyFilm] l3ba 7b S01
+2025-04-30 00:11:42,355 - INFO - No new episodes found for [EgyFilm] snds S02
+2025-04-30 00:11:42,643 - INFO - No new episodes found for [EgyFilm] kwbra S01
+2025-04-30 00:11:42,915 - INFO - No new episodes found for [EgyFilm] 3shryn arb3a w3shryn S02
+2025-04-30 00:11:43,237 - INFO - No new episodes found for [EgyFilm] r7yl S01
+2025-04-30 00:11:43,531 - INFO - No new episodes found for [EgyFilm] frawla S01
+2025-04-30 00:11:43,815 - INFO - No new episodes found for [EgyFilm] bdwn sab2 anzar S01
+2025-04-30 00:11:44,098 - INFO - No new episodes found for [EgyFilm] b2yna atnyn S01
+2025-04-30 00:11:44,372 - INFO - No new episodes found for [EgyFilm] alf lyla wlyla: gwdr S01
+2025-04-30 00:11:44,655 - INFO - No new episodes found for [EgyFilm] mly7a S01
+2025-04-30 00:11:44,923 - INFO - No new episodes found for [EgyFilm] khald nwr wwldh nwr khald S01
+2025-04-30 00:11:45,215 - INFO - No new episodes found for [EgyFilm] byn l2swr S01
+2025-04-30 00:11:45,503 - INFO - No new episodes found for [EgyFilm] al7shashyn S01
+2025-04-30 00:11:45,820 - INFO - No new episodes found for [EgyFilm] alkbyr awy S08
+2025-04-30 00:11:46,100 - INFO - No new episodes found for [EgyFilm] al3tawla S01
+2025-04-30 00:11:46,367 - INFO - No new episodes found for [EgyFilm] byt alrfa3y S01
+2025-04-30 00:11:46,654 - INFO - No new episodes found for [EgyFilm] aghmd 3ynyk S01
+2025-04-30 00:11:46,932 - INFO - No new episodes found for [EgyFilm] gry alw7wsh S01
+2025-04-30 00:11:53,101 - INFO - No new episodes found for [EgyFilm] brystyg S01
+2025-04-30 00:11:53,392 - INFO - No new episodes found for [EgyFilm] asr S01
+2025-04-30 00:11:53,672 - INFO - No new episodes found for [EgyFilm] 2l3 al7gr S02
+2025-04-30 00:11:53,952 - INFO - No new episodes found for [EgyFilm] bnat hmam S01
+2025-04-30 00:11:54,228 - INFO - No new episodes found for [EgyFilm] lam shmsya S01
+2025-04-30 00:11:54,505 - INFO - No new episodes found for [EgyFilm] shbab amraa S01

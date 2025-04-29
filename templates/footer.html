@@ -1,0 +1,54 @@
+<div style="display: none">
+     
+    <!-- ads  -->
+      
+    </div>
+    <div class="Content--Wrapper">
+      <footer>
+        <div class="copyrights">
+          جميع الحقوق محفوظة <a href="/">إِيجي فيلم</a> -
+          © 2025
+        </div>
+      </footer>
+    </div>
+    <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+    <!-- jquery.min.js -->
+    <script type="text/javascript" src="/static/js/owl.carousel.min.js"></script>
+    <!-- owl.carousel.min.js -->
+    <script type="text/javascript" src="/static/js/Init.js"></script>
+    <!-- Init.js -->
+    
+    <script src="/static/js/typed.min.js"></script>
+    <!-- typed.min.js -->
+    <script>
+      var typed = new Typed(".vticker", {
+        strings: [
+          "Welcome To EgyFilm.",
+        ],
+        typeSpeed: 30,
+        backSpeed: 30,
+        backDelay: 2500,
+        loop: true,
+      });
+    </script>
+    <script>
+      function copyToClipboard(element) {
+        var $temp = jQuery("<input>");
+        jQuery("body").append($temp);
+        $temp.val(jQuery(element).val()).select();
+        document.execCommand("copy");
+        $temp.remove();
+        jQuery(".copied").show();
+      }
+    </script>
+
+    <iframe
+      src="about:blank"
+      style="
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        display: none;
+        opacity: 0;
+      "
+    ></iframe>
