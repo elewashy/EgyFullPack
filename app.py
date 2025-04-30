@@ -20,7 +20,7 @@ def get_pagination(page, total_pages):
     def add_ellipsis():
         pagination.append({
             "number": "...",
-            "url": "#",
+            "url": "javascript: void(0)",
             "active": False
         })
 
@@ -240,6 +240,10 @@ def serve_json(series_id, filename):
 
 # Allow serving static files in debug mode
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
 
 if __name__ == "__main__":
     app.run(debug=True)
