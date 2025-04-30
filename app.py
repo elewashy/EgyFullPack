@@ -155,7 +155,7 @@ def series():
     def add_ellipsis():
         pagination.append({
             "number": "...",
-            "url": "#",
+            "url": "javascript: void(0)",
             "active": False
         })
 
