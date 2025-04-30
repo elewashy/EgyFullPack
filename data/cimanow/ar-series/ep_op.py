@@ -19,42 +19,144 @@ logging.basicConfig(
 class SeriesDownloader:
     def __init__(self):
         self.script_dir = os.path.dirname(os.path.abspath(__file__))
-        self.ids_dir = os.path.join(self.script_dir, 'ids')
-        self.progress_file = os.path.join(self.script_dir, 'progress.json')
-        self.processed_data_file = os.path.join(self.script_dir, 'processed_data.json')
+        # Store data files in ar-series directory
+        self.data_dir = self.script_dir
+        self.ids_dir = os.path.join(self.data_dir, 'ids')
+        self.progress_file = os.path.join(self.data_dir, 'progress.json')
+        self.processed_data_file = os.path.join(self.data_dir, 'processed_data.json')
+        
+        # Create ids directory if it doesn't exist
+        os.makedirs(self.ids_dir, exist_ok=True)
+        
         self.session = None
         self.progress_data = self.load_progress()
         self.processed_data = self.load_processed_data()
         
+        # Log progress file locations
+        logging.info(f"Using progress file: {self.progress_file}")
+        logging.info(f"Using processed data file: {self.processed_data_file}")
+        
     def load_progress(self):
-        if os.path.exists(self.progress_file):
-            try:
-                with open(self.progress_file, 'r', encoding='utf-8') as f:
-                    return json.load(f)
-            except Exception as e:
-                logging.error(f"Error loading progress file: {e}")
-        return {
+        default_progress = {
             'completed_series': [],
             'completed_episodes': {},
             'last_update': {}
         }
+        
+        if os.path.exists(self.progress_file):
+            try:
+                # Try loading main file
+                with open(self.progress_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                # Validate and repair data structure
+                if not isinstance(data, dict):
+                    logging.error("Progress file corrupted, resetting to default")
+                    return default_progress
+                
+                # Ensure all required keys exist
+                for key in default_progress:
+                    if key not in data:
+                        logging.warning(f"Missing key '{key}' in progress file, repairing")
+                        data[key] = default_progress[key]
+                
+                return data
+                
+            except json.JSONDecodeError:
+                logging.error("Progress file corrupted, trying backup")
+                # Try loading backup if main file is corrupted
+                backup_file = f"{self.progress_file}.backup"
+                if os.path.exists(backup_file):
+                    try:
+                        with open(backup_file, 'r', encoding='utf-8') as f:
+                            return json.load(f)
+                    except:
+                        logging.error("Backup file also corrupted")
+                
+            except Exception as e:
+                logging.error(f"Error loading progress file: {e}")
+        
+        return default_progress
 
     def load_processed_data(self):
         if os.path.exists(self.processed_data_file):
             try:
+                # Try loading main file
                 with open(self.processed_data_file, 'r', encoding='utf-8') as f:
-                    return json.load(f)
+                    data = json.load(f)
+                
+                # Validate data structure
+                if not isinstance(data, dict):
+                    logging.error("Processed data file corrupted, resetting")
+                    return {}
+                
+                # Validate episodes data structure
+                for series_id, series_data in data.items():
+                    if not isinstance(series_data, dict) or 'episodes' not in series_data:
+                        logging.warning(f"Invalid data for series {series_id}, repairing")
+                        data[series_id] = {'episodes': []}
+                
+                return data
+                
+            except json.JSONDecodeError:
+                logging.error("Processed data file corrupted, trying backup")
+                # Try loading backup if main file is corrupted
+                backup_file = f"{self.processed_data_file}.backup"
+                if os.path.exists(backup_file):
+                    try:
+                        with open(backup_file, 'r', encoding='utf-8') as f:
+                            return json.load(f)
+                    except:
+                        logging.error("Backup file also corrupted")
+                
             except Exception as e:
-                logging.error(f"Error loading processed data: {e}")
+                logging.error(f"Error loading processed data file: {e}")
+        
         return {}
 
     def save_progress(self):
-        with open(self.progress_file, 'w', encoding='utf-8') as f:
-            json.dump(self.progress_data, f, ensure_ascii=False, indent=2)
+        try:
+            # Create backup of existing file
+            if os.path.exists(self.progress_file):
+                backup_file = f"{self.progress_file}.backup"
+                os.replace(self.progress_file, backup_file)
+            
+            # Write new data
+            with open(self.progress_file, 'w', encoding='utf-8') as f:
+                json.dump(self.progress_data, f, ensure_ascii=False, indent=2)
+                
+            # Remove backup if write was successful
+            if os.path.exists(f"{self.progress_file}.backup"):
+                os.remove(f"{self.progress_file}.backup")
+                
+            logging.info("Progress saved successfully")
+        except Exception as e:
+            logging.error(f"Error saving progress: {e}")
+            # Restore backup if write failed
+            if os.path.exists(f"{self.progress_file}.backup"):
+                os.replace(f"{self.progress_file}.backup", self.progress_file)
 
     def save_processed_data(self):
-        with open(self.processed_data_file, 'w', encoding='utf-8') as f:
-            json.dump(self.processed_data, f, ensure_ascii=False, indent=2)
+        try:
+            # Create backup of existing file
+            if os.path.exists(self.processed_data_file):
+                backup_file = f"{self.processed_data_file}.backup"
+                os.replace(self.processed_data_file, backup_file)
+            
+            # Write new data
+            with open(self.processed_data_file, 'w', encoding='utf-8') as f:
+                json.dump(self.processed_data, f, ensure_ascii=False, indent=2)
+                
+            # Remove backup if write was successful
+            if os.path.exists(f"{self.processed_data_file}.backup"):
+                os.remove(f"{self.processed_data_file}.backup")
+                
+            logging.info("Processed data saved successfully")
+        except Exception as e:
+            logging.error(f"Error saving processed data: {e}")
+            # Restore backup if write failed
+            if os.path.exists(f"{self.processed_data_file}.backup"):
+                os.replace(f"{self.processed_data_file}.backup", self.processed_data_file)
 
     def get_series_dir(self, series_id):
         series_dir = os.path.join(self.ids_dir, str(series_id))
@@ -208,40 +310,83 @@ class SeriesDownloader:
         series_dir = self.get_series_dir(series_id)
         
         try:
+            # Log start of processing
+            logging.info(f"Processing series: {series['name']} (ID: {series_id})")
+            
             # Get current episodes
             current_episodes = await self.get_episode_links(series['link'])
             if not current_episodes:
                 logging.error(f"No episodes found for {series['name']}")
                 return
             
-            # Get previously processed episodes
-            prev_episodes = self.processed_data.get(series_id, {'episodes': []})
+            # Sort episodes by number for consistent processing order
+            current_episodes.sort(key=lambda x: int(x[0]))
             
-            # Find new episodes
-            prev_ep_nums = set(ep['number'] for ep in prev_episodes.get('episodes', []))
+            # Get previously processed episodes and validate their existence
+            prev_episodes = self.processed_data.get(series_id, {'episodes': []})
+            processed_eps = []
+            
+            # Verify previously processed episodes actually exist in files
+            for ep in prev_episodes.get('episodes', []):
+                ep_num = ep['number']
+                # Check if episode files exist in any quality
+                found = False
+                for fname in os.listdir(series_dir):
+                    if fname.endswith('.json') and fname != 'summary.json':
+                        try:
+                            with open(os.path.join(series_dir, fname), 'r', encoding='utf-8') as f:
+                                data = json.load(f)
+                                if any(e['name'] == f"Episode {ep_num}" for e in data.get('episodes', [])):
+                                    found = True
+                                    break
+                        except Exception:
+                            continue
+                
+                if found:
+                    processed_eps.append(ep)
+                else:
+                    logging.warning(f"Episode {ep_num} marked as processed but files missing, will reprocess")
+            
+            # Update processed data with verified episodes
+            if series_id in self.processed_data:
+                self.processed_data[series_id]['episodes'] = processed_eps
+            
+            # Find episodes that need processing
+            processed_nums = set(ep['number'] for ep in processed_eps)
             new_episodes = [(num, url) for num, url in current_episodes 
-                          if num not in prev_ep_nums]
+                          if num not in processed_nums]
             
             if new_episodes:
-                logging.info(f"Found {len(new_episodes)} new episodes for {series['name']}")
+                logging.info(f"Found {len(new_episodes)} episodes to process for {series['name']}")
                 
-                # Process new episodes sequentially
+                # Process episodes sequentially
                 for ep_num, ep_url in new_episodes:
-                    new_content = await self.process_episode(series, ep_num, ep_url, series_dir)
-                    if new_content:
-                        # Update processed data
-                        if series_id not in self.processed_data:
-                            self.processed_data[series_id] = {'episodes': []}
+                    try:
+                        logging.info(f"Processing episode {ep_num}")
+                        new_content = await self.process_episode(series, ep_num, ep_url, series_dir)
                         
-                        self.processed_data[series_id]['episodes'].append({
-                            'number': ep_num,
-                            'processed_at': datetime.now().isoformat()
-                        })
-                        
-                        # Save after each episode to prevent data loss
-                        self.save_processed_data()
+                        if new_content:
+                            # Update processed data
+                            if series_id not in self.processed_data:
+                                self.processed_data[series_id] = {'episodes': []}
+                            
+                            self.processed_data[series_id]['episodes'].append({
+                                'number': ep_num,
+                                'processed_at': datetime.now().isoformat()
+                            })
+                            
+                            # Save progress frequently
+                            self.save_processed_data()
+                            
+                            logging.info(f"Successfully processed episode {ep_num}")
+                        else:
+                            logging.warning(f"No new content added for episode {ep_num}")
+                            
+                    except Exception as e:
+                        logging.error(f"Error processing episode {ep_num}: {e}")
+                        continue
                 
-                # Create/update series summary
+                # Update series summary
                 self.create_series_summary(series, series_dir)
                 
                 # Validate completion
@@ -250,18 +395,18 @@ class SeriesDownloader:
                 
                 if is_complete:
                     logging.info(f"Successfully completed series: {series['name']}")
+                    if series_id not in self.progress_data['completed_series']:
+                        self.progress_data['completed_series'].append(series_id)
                 else:
                     logging.warning(
                         f"Series {series['name']} is incomplete. Missing episodes: {missing}")
-                    
-                # Update progress data
+                
+                # Update progress
                 self.progress_data['last_update'][series_id] = datetime.now().isoformat()
-                if is_complete and series_id not in self.progress_data['completed_series']:
-                    self.progress_data['completed_series'].append(series_id)
                 self.save_progress()
-                    
+            
             else:
-                logging.info(f"No new episodes found for {series['name']}")
+                logging.info(f"All episodes already processed for {series['name']}")
                 
         except Exception as e:
             logging.error(f"Error processing series {series['name']}: {e}")

@@ -1,0 +1,13 @@
+{
+  "title": "[EgyFilm] n2ta swda S01",
+  "qualities": {
+    "vk": {
+      "480p": "vk_480p.json",
+      "720p": "vk_720p.json"
+    },
+    "deva": {
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}
