@@ -1,0 +1,9 @@
+{
+  "title": "[EgyFilm] slmat abw albnat S03",
+  "qualities": {
+    "deva": {
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}

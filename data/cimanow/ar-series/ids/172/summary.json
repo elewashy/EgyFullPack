@@ -1,0 +1,9 @@
+{
+  "title": "[EgyFilm] al7rmlk S02",
+  "qualities": {
+    "deva": {
+      "360p": "deva_360p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}

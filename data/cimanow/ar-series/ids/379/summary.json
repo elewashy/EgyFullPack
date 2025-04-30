@@ -1,0 +1,9 @@
+{
+  "title": "[EgyFilm] stat byt alm3ady S01",
+  "qualities": {
+    "deva": {
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}

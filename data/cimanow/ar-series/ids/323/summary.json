@@ -1,0 +1,10 @@
+{
+  "title": "[EgyFilm] lyh la S02",
+  "qualities": {
+    "deva": {
+      "1080p": "deva_1080p.json",
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
+}
