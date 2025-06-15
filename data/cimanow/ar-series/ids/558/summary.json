@@ -1,7 +1,8 @@
 {
-  "title": "[EgyFilm] w3wd skhya S01",
+  "title": "[EgyFilm] alsndw2 S01",
   "qualities": {
     "deva": {
+      "1080p": "deva_1080p.json",
       "360p": "deva_360p.json",
       "480p": "deva_480p.json",
       "720p": "deva_720p.json"

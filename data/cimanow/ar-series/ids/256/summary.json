@@ -1,7 +1,8 @@
 {
-  "title": "[EgyFilm] 3ndma yktml al2mr S02",
+  "title": "[EgyFilm] all3ba S02",
   "qualities": {
     "deva": {
+      "1080p": "deva_1080p.json",
       "480p": "deva_480p.json",
       "720p": "deva_720p.json"
     }

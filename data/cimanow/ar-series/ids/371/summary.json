@@ -1,7 +1,8 @@
 {
-  "title": "[EgyFilm] 8 ayam S01",
+  "title": "[EgyFilm] mwdw3 3a2ly S01",
   "qualities": {
     "deva": {
+      "1080p": "deva_1080p.json",
       "480p": "deva_480p.json",
       "720p": "deva_720p.json"
     }

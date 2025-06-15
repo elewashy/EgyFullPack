@@ -1,4 +1,9 @@
 {
-  "title": "[EgyFilm] shbr myh S01",
-  "qualities": {}
+  "title": "[EgyFilm] bla dlyl S01",
+  "qualities": {
+    "deva": {
+      "360p": "deva_360p.json",
+      "720p": "deva_720p.json"
+    }
+  }
 }

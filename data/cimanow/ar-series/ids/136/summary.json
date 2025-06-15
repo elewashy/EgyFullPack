@@ -1,4 +1,9 @@
 {
-  "title": "[EgyFilm] 7wadyt alshanzlyzyh S01",
-  "qualities": {}
+  "title": "[EgyFilm] mmalk alnar S01",
+  "qualities": {
+    "deva": {
+      "360p": "deva_360p.json",
+      "720p": "deva_720p.json"
+    }
+  }
 }
