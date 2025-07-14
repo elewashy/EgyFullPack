@@ -1,13 +1,11 @@
 {
-  "title": "[EgyFilm] mwdw3 3a2ly S03",
+  "title": "[EgyFilm] srab S01",
   "qualities": {
     "vk": {
-      "1080p": "vk_1080p.json",
       "480p": "vk_480p.json",
       "720p": "vk_720p.json"
     },
     "deva": {
-      "1080p": "deva_1080p.json",
       "480p": "deva_480p.json",
       "720p": "deva_720p.json"
     }
