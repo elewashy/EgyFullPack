@@ -1,4 +1,9 @@
 {
-  "title": "[EgyFilm] d2y2a smt S01",
-  "qualities": {}
+  "title": "[EgyFilm] zwdyak S01",
+  "qualities": {
+    "deva": {
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
 }

@@ -1,4 +1,10 @@
 {
-  "title": "[EgyFilm] kabtn anwsh S03",
-  "qualities": {}
+  "title": "[EgyFilm] w3yt S01",
+  "qualities": {
+    "deva": {
+      "360p": "deva_360p.json",
+      "480p": "deva_480p.json",
+      "720p": "deva_720p.json"
+    }
+  }
 }
