@@ -8627,3 +8627,150 @@
 2025-07-14 22:13:06,020 - INFO - Successfully completed series: [EgyFilm] gry alw7wsh S01
 2025-07-14 22:13:06,020 - INFO - Progress saved successfully
 2025-07-14 22:13:06,020 - INFO - Processing series: [EgyFilm] tag S01 (ID: 628)
+2025-07-17 02:21:47,903 - INFO - Using progress file: c:\Users\Mohamed Tamer\Desktop\Work\EgyFilm-multi\EgyFullPack\data\cimanow\ar-series\progress.json
+2025-07-17 02:21:47,903 - INFO - Using processed data file: c:\Users\Mohamed Tamer\Desktop\Work\EgyFilm-multi\EgyFullPack\data\cimanow\ar-series\processed_data.json
+2025-07-17 02:21:47,916 - INFO - Processing series: [EgyFilm] zy alshms S01 (ID: 753)
+2025-07-17 02:21:48,493 - INFO - Found 6 episodes to process for [EgyFilm] zy alshms S01
+2025-07-17 02:21:48,493 - INFO - Processing episode 17
+2025-07-17 02:21:48,879 - INFO - Processed data saved successfully
+2025-07-17 02:21:48,879 - INFO - Successfully processed episode 17
+2025-07-17 02:21:48,879 - INFO - Processing episode 18
+2025-07-17 02:21:50,252 - INFO - Processed data saved successfully
+2025-07-17 02:21:50,252 - INFO - Successfully processed episode 18
+2025-07-17 02:21:50,252 - INFO - Processing episode 19
+2025-07-17 02:21:51,516 - INFO - Processed data saved successfully
+2025-07-17 02:21:51,516 - INFO - Successfully processed episode 19
+2025-07-17 02:21:51,516 - INFO - Processing episode 20
+2025-07-17 02:21:52,961 - INFO - Processed data saved successfully
+2025-07-17 02:21:52,961 - INFO - Successfully processed episode 20
+2025-07-17 02:21:52,961 - INFO - Processing episode 21
+2025-07-17 02:21:54,277 - INFO - Processed data saved successfully
+2025-07-17 02:21:54,277 - INFO - Successfully processed episode 21
+2025-07-17 02:21:54,277 - INFO - Processing episode 22
+2025-07-17 02:21:55,585 - INFO - Processed data saved successfully
+2025-07-17 02:21:55,585 - INFO - Successfully processed episode 22
+2025-07-17 02:21:55,591 - INFO - Successfully completed series: [EgyFilm] zy alshms S01
+2025-07-17 02:21:55,594 - INFO - Progress saved successfully
+2025-07-17 02:21:55,596 - INFO - Processing series: [EgyFilm] mmlka al7ryr S01 (ID: 752)
+2025-07-17 02:21:55,976 - INFO - All episodes already processed for [EgyFilm] mmlka al7ryr S01
+2025-07-17 02:21:55,976 - INFO - Processing series: [EgyFilm] alastwra S01 (ID: 751)
+2025-07-17 02:21:57,504 - INFO - All episodes already processed for [EgyFilm] alastwra S01
+2025-07-17 02:21:57,504 - INFO - Processing series: [EgyFilm] fat almy3ad S01 (ID: 750)
+2025-07-17 02:21:57,904 - INFO - Found 1 episodes to process for [EgyFilm] fat almy3ad S01
+2025-07-17 02:21:57,904 - INFO - Processing episode 25
+2025-07-17 02:21:59,811 - INFO - Processed data saved successfully
+2025-07-17 02:21:59,811 - INFO - Successfully processed episode 25
+2025-07-17 02:21:59,811 - INFO - Successfully completed series: [EgyFilm] fat almy3ad S01
+2025-07-17 02:21:59,821 - INFO - Progress saved successfully
+2025-07-17 02:21:59,821 - INFO - Processing series: [EgyFilm] als7ba al7lwa S01 (ID: 749)
+2025-07-17 02:22:00,416 - INFO - All episodes already processed for [EgyFilm] als7ba al7lwa S01
+2025-07-17 02:22:00,416 - INFO - Processing series: [EgyFilm] alwad syd alsh7at S01 (ID: 748)
+2025-07-17 02:22:01,967 - INFO - All episodes already processed for [EgyFilm] alwad syd alsh7at S01
+2025-07-17 02:22:01,967 - INFO - Processing series: [EgyFilm] sywf al3rb S01 (ID: 747)
+2025-07-17 02:22:02,468 - INFO - All episodes already processed for [EgyFilm] sywf al3rb S01
+2025-07-17 02:22:02,468 - INFO - Processing series: [EgyFilm] 7rb algbaly S01 (ID: 746)
+2025-07-17 02:22:02,970 - INFO - Found 4 episodes to process for [EgyFilm] 7rb algbaly S01
+2025-07-17 02:22:02,970 - INFO - Processing episode 38
+2025-07-17 02:22:04,508 - INFO - Processed data saved successfully
+2025-07-17 02:22:04,508 - INFO - Successfully processed episode 38
+2025-07-17 02:22:04,508 - INFO - Processing episode 39
+2025-07-17 02:22:05,043 - INFO - Processed data saved successfully
+2025-07-17 02:22:05,043 - INFO - Successfully processed episode 39
+2025-07-17 02:22:05,043 - INFO - Processing episode 40
+2025-07-17 02:22:05,556 - INFO - Processed data saved successfully
+2025-07-17 02:22:05,556 - INFO - Successfully processed episode 40
+2025-07-17 02:22:05,556 - INFO - Processing episode 41
+2025-07-17 02:22:06,976 - WARNING - No new content added for episode 41
+2025-07-17 02:22:06,987 - WARNING - Series [EgyFilm] 7rb algbaly S01 is incomplete. Missing episodes: ['41']
+2025-07-17 02:22:06,998 - INFO - Progress saved successfully
+2025-07-17 02:22:07,000 - INFO - Processing series: [EgyFilm] franklyn S01 (ID: 745)
+2025-07-17 02:22:08,451 - INFO - All episodes already processed for [EgyFilm] franklyn S01
+2025-07-17 02:22:08,451 - INFO - Processing series: [EgyFilm] 3hd anys S01 (ID: 744)
+2025-07-17 02:22:09,824 - INFO - All episodes already processed for [EgyFilm] 3hd anys S01
+2025-07-17 02:22:09,825 - INFO - Processing series: [EgyFilm] brystyg S01 (ID: 743)
+2025-07-17 02:22:11,194 - INFO - All episodes already processed for [EgyFilm] brystyg S01
+2025-07-17 02:22:11,194 - INFO - Processing series: [EgyFilm] asr S01 (ID: 742)
+2025-07-17 02:22:11,763 - INFO - Found 3 episodes to process for [EgyFilm] asr S01
+2025-07-17 02:22:11,763 - INFO - Processing episode 74
+2025-07-17 02:22:13,323 - INFO - Processed data saved successfully
+2025-07-17 02:22:13,323 - INFO - Successfully processed episode 74
+2025-07-17 02:22:13,323 - INFO - Processing episode 75
+2025-07-17 02:22:14,856 - INFO - Processed data saved successfully
+2025-07-17 02:22:14,856 - INFO - Successfully processed episode 75
+2025-07-17 02:22:14,856 - INFO - Processing episode 76
+2025-07-17 02:22:16,281 - WARNING - No new content added for episode 76
+2025-07-17 02:22:16,326 - WARNING - Series [EgyFilm] asr S01 is incomplete. Missing episodes: ['76']
+2025-07-17 02:22:16,334 - INFO - Progress saved successfully
+2025-07-17 02:22:16,334 - INFO - Processing series: [EgyFilm] 2l3 al7gr S02 (ID: 741)
+2025-07-17 02:22:17,779 - INFO - All episodes already processed for [EgyFilm] 2l3 al7gr S02
+2025-07-17 02:22:17,779 - INFO - Processing series: [EgyFilm] bnat hmam S01 (ID: 740)
+2025-07-17 02:22:18,215 - INFO - All episodes already processed for [EgyFilm] bnat hmam S01
+2025-07-17 02:22:18,215 - INFO - Processing series: [EgyFilm] lam shmsya S01 (ID: 739)
+2025-07-17 02:22:18,649 - INFO - All episodes already processed for [EgyFilm] lam shmsya S01
+2025-07-17 02:22:18,649 - INFO - Processing series: [EgyFilm] shbab amraa S01 (ID: 738)
+2025-07-17 02:22:20,375 - INFO - All episodes already processed for [EgyFilm] shbab amraa S01
+2025-07-17 02:22:20,375 - INFO - Processing series: [EgyFilm] zlm almstba S01 (ID: 737)
+2025-07-17 02:22:20,827 - INFO - All episodes already processed for [EgyFilm] zlm almstba S01
+2025-07-17 02:22:20,827 - INFO - Processing series: [EgyFilm] alghawy S01 (ID: 736)
+2025-07-17 02:22:22,308 - INFO - All episodes already processed for [EgyFilm] alghawy S01
+2025-07-17 02:22:22,308 - INFO - Processing series: [EgyFilm] mnthy alsla7ya S01 (ID: 735)
+2025-07-17 02:22:23,788 - INFO - All episodes already processed for [EgyFilm] mnthy alsla7ya S01
+2025-07-17 02:22:23,788 - INFO - Processing series: [EgyFilm] 7sba 3mry S01 (ID: 734)
+2025-07-17 02:22:25,430 - INFO - All episodes already processed for [EgyFilm] 7sba 3mry S01
+2025-07-17 02:22:25,430 - INFO - Processing series: [EgyFilm] ns alsh3b asmh m7md S01 (ID: 733)
+2025-07-17 02:22:26,897 - INFO - All episodes already processed for [EgyFilm] ns alsh3b asmh m7md S01
+2025-07-17 02:22:26,908 - INFO - Processing series: [EgyFilm] 2hwa alm7ta S01 (ID: 732)
+2025-07-17 02:22:28,371 - INFO - All episodes already processed for [EgyFilm] 2hwa alm7ta S01
+2025-07-17 02:22:28,371 - INFO - Processing series: [EgyFilm] 3aysha aldwr S01 (ID: 731)
+2025-07-17 02:22:28,798 - INFO - All episodes already processed for [EgyFilm] 3aysha aldwr S01
+2025-07-17 02:22:28,798 - INFO - Processing series: [EgyFilm] r7ma S01 (ID: 730)
+2025-07-17 02:22:30,370 - INFO - All episodes already processed for [EgyFilm] r7ma S01
+2025-07-17 02:22:30,370 - INFO - Processing series: [EgyFilm] ywm ml2ak S01 (ID: 729)
+2025-07-17 02:22:30,855 - INFO - All episodes already processed for [EgyFilm] ywm ml2ak S01
+2025-07-17 02:22:30,855 - INFO - Processing series: [EgyFilm] llazkya2 f2t S01 (ID: 728)
+2025-07-17 02:22:32,336 - INFO - All episodes already processed for [EgyFilm] llazkya2 f2t S01
+2025-07-17 02:22:32,336 - INFO - Processing series: [EgyFilm] alzafr S01 (ID: 727)
+2025-07-17 02:22:33,916 - INFO - All episodes already processed for [EgyFilm] alzafr S01
+2025-07-17 02:22:33,916 - INFO - Processing series: [EgyFilm] alshmysy S01 (ID: 726)
+2025-07-17 02:22:35,456 - INFO - All episodes already processed for [EgyFilm] alshmysy S01
+2025-07-17 02:22:35,456 - INFO - Processing series: [EgyFilm] ahl alkhtaya S01 (ID: 725)
+2025-07-17 02:22:35,935 - INFO - All episodes already processed for [EgyFilm] ahl alkhtaya S01
+2025-07-17 02:22:35,935 - INFO - Processing series: [EgyFilm] t7t alard S01 (ID: 724)
+2025-07-17 02:22:37,463 - INFO - All episodes already processed for [EgyFilm] t7t alard S01
+2025-07-17 02:22:37,463 - INFO - Processing series: [EgyFilm] gwma S01 (ID: 723)
+2025-07-17 02:22:39,722 - INFO - All episodes already processed for [EgyFilm] gwma S01
+2025-07-17 02:22:39,722 - INFO - Processing series: [EgyFilm] zhra 3mry S01 (ID: 722)
+2025-07-17 02:22:41,272 - INFO - All episodes already processed for [EgyFilm] zhra 3mry S01
+2025-07-17 02:22:41,272 - INFO - Processing series: [EgyFilm] fy l7za S01 (ID: 721)
+2025-07-17 02:22:45,522 - INFO - All episodes already processed for [EgyFilm] fy l7za S01
+2025-07-17 02:22:45,522 - INFO - Processing series: [EgyFilm] alamyra S01 (ID: 720)
+2025-07-17 02:22:46,946 - INFO - All episodes already processed for [EgyFilm] alamyra S01
+2025-07-17 02:22:46,946 - INFO - Processing series: [EgyFilm] m3awya S01 (ID: 719)
+2025-07-17 02:22:47,407 - INFO - All episodes already processed for [EgyFilm] m3awya S01
+2025-07-17 02:22:47,407 - INFO - Processing series: [EgyFilm] try2 albdaya S01 (ID: 718)
+2025-07-17 02:22:49,432 - INFO - All episodes already processed for [EgyFilm] try2 albdaya S01
+2025-07-17 02:22:49,432 - INFO - Processing series: [EgyFilm] syd alnas S01 (ID: 717)
+2025-07-17 02:22:49,947 - INFO - All episodes already processed for [EgyFilm] syd alnas S01
+2025-07-17 02:22:49,947 - INFO - Processing series: [EgyFilm] fhd albtl S01 (ID: 716)
+2025-07-17 02:22:50,513 - INFO - All episodes already processed for [EgyFilm] fhd albtl S01
+2025-07-17 02:22:50,513 - INFO - Processing series: [EgyFilm] 2lby wmfta7h S01 (ID: 715)
+2025-07-17 02:22:50,980 - INFO - All episodes already processed for [EgyFilm] 2lby wmfta7h S01
+2025-07-17 02:22:50,980 - INFO - Processing series: [EgyFilm] nfs S01 (ID: 714)
+2025-07-17 02:22:51,475 - INFO - All episodes already processed for [EgyFilm] nfs S01
+2025-07-17 02:22:51,475 - INFO - Processing series: [EgyFilm] alf lyla wlyla: gwdr S02 (ID: 713)
+2025-07-17 02:22:51,902 - INFO - All episodes already processed for [EgyFilm] alf lyla wlyla: gwdr S02
+2025-07-17 02:22:51,902 - INFO - Processing series: [EgyFilm] shar3 ala3shy S01 (ID: 712)
+2025-07-17 02:22:52,390 - INFO - All episodes already processed for [EgyFilm] shar3 ala3shy S01
+2025-07-17 02:22:52,390 - INFO - Processing series: [EgyFilm] am 44 S01 (ID: 711)
+2025-07-17 02:22:53,890 - INFO - All episodes already processed for [EgyFilm] am 44 S01
+2025-07-17 02:22:53,890 - INFO - Processing series: [EgyFilm] abn albasha S01 (ID: 710)
+2025-07-17 02:22:55,544 - INFO - All episodes already processed for [EgyFilm] abn albasha S01
+2025-07-17 02:22:55,544 - INFO - Processing series: [EgyFilm] lyaly rwksy S01 (ID: 709)
+2025-07-17 02:22:57,134 - INFO - All episodes already processed for [EgyFilm] lyaly rwksy S01
+2025-07-17 02:22:57,134 - INFO - Processing series: [EgyFilm] gryma mntsf allyl S01 (ID: 708)
+2025-07-17 02:22:58,700 - INFO - All episodes already processed for [EgyFilm] gryma mntsf allyl S01
+2025-07-17 02:22:58,700 - INFO - Processing series: [EgyFilm] alns S01 (ID: 707)
+2025-07-17 02:22:59,174 - INFO - All episodes already processed for [EgyFilm] alns S01
+2025-07-17 02:22:59,184 - INFO - Processing series: [EgyFilm] 7kym basha S01 (ID: 706)
+2025-07-17 02:22:59,660 - INFO - All episodes already processed for [EgyFilm] 7kym basha S01
+2025-07-17 02:22:59,668 - INFO - Processing series: [EgyFilm] akhwaty S01 (ID: 705)
